@@ -1,0 +1,16 @@
+{
+  "name": "تخصصي",
+  "short_name": "تخصصي",
+  "description": "اكتشف تخصصك، وابنِ مستقبلك",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

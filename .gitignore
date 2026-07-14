@@ -1,0 +1,36 @@
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+coverage/
+.cache/
+public/build/
+
+# lockfiles (if you switch managers)
+package-lock.json
+pnpm-lock.yaml
+
+# Generated data
+src/app/data/universities.json
+src/app/data/programs.ts
