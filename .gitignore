@@ -32,5 +32,3 @@ package-lock.json
 pnpm-lock.yaml
 
 # Generated data
-src/app/data/universities.json
-src/app/data/programs.ts

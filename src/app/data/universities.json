@@ -1,0 +1,5927 @@
+[
+  {
+    "id": 1,
+    "name": "Recrutement National",
+    "etbCode": "C99",
+    "wilayas": [
+      "National"
+    ],
+    "sampleMajors": [
+      "Medecine",
+      "Pharmacie",
+      "Medecine Dentaire"
+    ],
+    "aliases": [
+      "Recrutement National",
+      "RN",
+      "C99",
+      "National",
+      "recrutementnational",
+      "rcrutement national",
+      "rcrtmnt ntnl",
+      "ercrutement national"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ecole Nationale Superieure d Agriculture Saharienne d Adrar",
+    "etbCode": "P73",
+    "wilayas": [
+      "Adrar"
+    ],
+    "sampleMajors": [
+      "Ecole Nationale Superieure d Agriculture Saharienne d Adrar"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure d Agriculture Saharienne d Adrar",
+      "ENSASA",
+      "P73",
+      "Adrar",
+      "ecolenationalesuperieuredagriculturesahariennedadrar",
+      "cole nationale superieure d agriculture saharienne d adrar",
+      "cl ntnl sprr d grcltr shrnn d drr",
+      "ceole nationale superieure d agriculture saharienne d adrar"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Univ. Adrar",
+    "etbCode": "U12",
+    "wilayas": [
+      "Adrar"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Adrar",
+      "Universite Adrar",
+      "University Adrar",
+      "UA",
+      "U12",
+      "Adrar",
+      "Univ Adrar",
+      "univ.adrar",
+      "niv. adrar",
+      "nv. drr",
+      "nuiv. adrar"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Univ. Chlef",
+    "etbCode": "C16",
+    "wilayas": [
+      "Chlef"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Chlef",
+      "Universite Chlef",
+      "University Chlef",
+      "UC",
+      "C16",
+      "Chlef",
+      "Univ Chlef",
+      "univ.chlef",
+      "niv. chlef",
+      "nv. chlf",
+      "nuiv. chlef"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "C. Univ. Aflou",
+    "etbCode": "C43",
+    "wilayas": [
+      "Aflou"
+    ],
+    "sampleMajors": [
+      "Informatique",
+      "Sciences de la Nature et de la Vie",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Management Electronique des Affaires",
+      "Droit",
+      "Langue Francaise"
+    ],
+    "aliases": [
+      "C. Univ. Aflou",
+      "UA",
+      "C43",
+      "Aflou",
+      "C. Univ Aflou",
+      "c.univ.aflou",
+      "c. niv. aflou",
+      "c. nv. fl",
+      ".c univ. aflou"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Univ. Laghouat",
+    "etbCode": "C18",
+    "wilayas": [
+      "Laghouat"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil (constructions Civils et Environnement)",
+      "Genie Civil (voirie et Reseaux Divers)",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique"
+    ],
+    "aliases": [
+      "Univ. Laghouat",
+      "Universite Laghouat",
+      "University Laghouat",
+      "UL",
+      "C18",
+      "Laghouat",
+      "Univ Laghouat",
+      "univ.laghouat",
+      "niv. laghouat",
+      "nv. lght",
+      "nuiv. laghouat"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Univ. Oum El Bouaghi",
+    "etbCode": "E09",
+    "wilayas": [
+      "Oum El Bouaghi"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Oum El Bouaghi",
+      "Universite Oum El Bouaghi",
+      "University Oum El Bouaghi",
+      "UOB",
+      "E09",
+      "Oum El Bouaghi",
+      "Univ Oum El Bouaghi",
+      "univ.oumelbouaghi",
+      "niv. oum el bouaghi",
+      "nv. m l bgh",
+      "nuiv. oum el bouaghi"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Univ. Oum El Bouaghi ± I.s.t.a",
+    "etbCode": "E50",
+    "wilayas": [
+      "Oum El Bouaghi"
+    ],
+    "sampleMajors": [
+      "Genie Industriel (formations Professionnalisantes)",
+      "Telecommunications (formations Professionnalisantes)",
+      "Physique (formations Professionnalisantes)",
+      "Sciences Alimentaires (formations Professionnalisantes)",
+      "Sciences de Gestion Sciences Financieres et Comptabilite (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Oum El Bouaghi ± I.s.t.a",
+      "Universite Oum El Bouaghi ± I.s.t.a",
+      "University Oum El Bouaghi ± I.s.t.a",
+      "UOBI",
+      "E50",
+      "Oum El Bouaghi",
+      "Univ Oum El Bouaghi ± I.s.t.a",
+      "univ.oumelbouaghi±i.s.t.a",
+      "niv. oum el bouaghi ± i.s.t.a",
+      "nv. m l bgh ± .s.t.",
+      "nuiv. oum el bouaghi ± i.s.t.a"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "C . Univ Barika",
+    "etbCode": "E44",
+    "wilayas": [
+      "Barika"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Informatique",
+      "Mathematiques",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Droit",
+      "Langue Francaise"
+    ],
+    "aliases": [
+      "C . Univ Barika",
+      "UB",
+      "E44",
+      "Barika",
+      "c.univbarika",
+      "c . niv barika",
+      "c . nv brk",
+      "c. univ barika"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "E.n.s des Energies Renouvelables de l Environnement et du Developpement Durable Batna",
+    "etbCode": "W92",
+    "wilayas": [
+      "Batna"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nat Sup des Energies Renouvelables de Environnement et du Developpement Durable Batna"
+    ],
+    "aliases": [
+      "E.n.s des Energies Renouvelables de l Environnement et du Developpement Durable Batna",
+      "EDEREDDB",
+      "W92",
+      "Batna",
+      "e.n.sdesenergiesrenouvelablesdelenvironnementetdudeveloppementdurablebatna",
+      ".n.s des energies renouvelables de l environnement et du developpement durable batna",
+      ".n.s ds nrgs rnvlbls d l nvrnnmnt t d dvlppmnt drbl btn",
+      ".en.s des energies renouvelables de l environnement et du developpement durable batna"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Institut Veterinaire Univ.batna 1",
+    "etbCode": "E39",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Veterinaires"
+    ],
+    "aliases": [
+      "Institut Veterinaire Univ.batna 1",
+      "IVU",
+      "E39",
+      "—",
+      "Institut Veterinaire Univbatna 1",
+      "institutveterinaireuniv.batna1",
+      "nstitut veterinaire univ.batna 1",
+      "nsttt vtrnr nv.btn 1",
+      "nistitut veterinaire univ.batna 1"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Univ. Batna 1",
+    "etbCode": "E08",
+    "wilayas": [
+      "Batna"
+    ],
+    "sampleMajors": [
+      "Sciences de la Matiere",
+      "Sciences de la Nature et de la Vie",
+      "Sciences Agronomiques",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Sciences Politiques",
+      "Droit"
+    ],
+    "aliases": [
+      "Univ. Batna 1",
+      "Universite Batna 1",
+      "University Batna 1",
+      "UB",
+      "E08",
+      "Batna",
+      "Univ Batna 1",
+      "univ.batna1",
+      "niv. batna 1",
+      "nv. btn 1",
+      "nuiv. batna 1"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Univ. Batna 2",
+    "etbCode": "E45",
+    "wilayas": [
+      "Batna"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique (technologie Automobile)",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Batna 2",
+      "Universite Batna 2",
+      "University Batna 2",
+      "UB",
+      "E45",
+      "Batna",
+      "Univ Batna 2",
+      "univ.batna2",
+      "niv. batna 2",
+      "nv. btn 2",
+      "nuiv. batna 2"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Univ. Batna 2 (sciences Biologiques)",
+    "etbCode": "E52",
+    "wilayas": [
+      "Batna"
+    ],
+    "sampleMajors": [
+      "Sciences de la Nature et de la Vie"
+    ],
+    "aliases": [
+      "Univ. Batna 2 (sciences Biologiques)",
+      "Universite Batna 2 (sciences Biologiques)",
+      "University Batna 2 (sciences Biologiques)",
+      "UBSB",
+      "E52",
+      "Batna",
+      "Univ Batna 2 (sciences Biologiques)",
+      "univ.batna2(sciencesbiologiques)",
+      "niv. batna 2 (sciences biologiques)",
+      "nv. btn 2 (scncs blgqs)",
+      "nuiv. batna 2 (sciences biologiques)"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "E.s en Sciences et Technologies de l Informatique et du Numerique Bejaia",
+    "etbCode": "W93",
+    "wilayas": [
+      "Bejaia"
+    ],
+    "sampleMajors": [
+      "Fb Inf Ecole Superieure en Sciences et Technologies de l Informatique et du Numerique Bejaia"
+    ],
+    "aliases": [
+      "E.s en Sciences et Technologies de l Informatique et du Numerique Bejaia",
+      "STINB",
+      "W93",
+      "Bejaia",
+      "e.sensciencesettechnologiesdelinformatiqueetdunumeriquebejaia",
+      ".s en sciences et technologies de l informatique et du numerique bejaia",
+      ".s n scncs t tchnlgs d l nfrmtq t d nmrq bj",
+      ".es en sciences et technologies de l informatique et du numerique bejaia"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Univ. Bejaia",
+    "etbCode": "C19",
+    "wilayas": [
+      "Bejaia"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Hydraulique",
+      "Electrotechnique",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Bejaia",
+      "Universite Bejaia",
+      "University Bejaia",
+      "UB",
+      "C19",
+      "Bejaia",
+      "Univ Bejaia",
+      "univ.bejaia",
+      "niv. bejaia",
+      "nv. bj",
+      "nuiv. bejaia"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Univ. Biskra",
+    "etbCode": "E13",
+    "wilayas": [
+      "Biskra"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Hydraulique",
+      "Electrotechnique (energies Renouvelables)",
+      "Electrotechnique"
+    ],
+    "aliases": [
+      "Univ. Biskra",
+      "Universite Biskra",
+      "University Biskra",
+      "UB",
+      "E13",
+      "Biskra",
+      "Univ Biskra",
+      "univ.biskra",
+      "niv. biskra",
+      "nv. bskr",
+      "nuiv. biskra"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Univ. Bechar",
+    "etbCode": "U11",
+    "wilayas": [
+      "Bechar"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques",
+      "Sciences de la Nature et de la Vie",
+      "Sciences Agronomiques"
+    ],
+    "aliases": [
+      "Univ. Bechar",
+      "Universite Bechar",
+      "University Bechar",
+      "UB",
+      "U11",
+      "Bechar",
+      "Univ Bechar",
+      "univ.bechar",
+      "niv. bechar",
+      "nv. bchr",
+      "nuiv. bechar"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Ecole Nationale Superieure Hydraulique Blida",
+    "etbCode": "H15",
+    "wilayas": [
+      "Blida"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure d Hydraulique Blida"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure Hydraulique Blida",
+      "ENSHB",
+      "H15",
+      "Blida",
+      "ecolenationalesuperieurehydrauliqueblida",
+      "cole nationale superieure hydraulique blida",
+      "cl ntnl sprr hdrlq bld",
+      "ceole nationale superieure hydraulique blida"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Univ. Blida 1",
+    "etbCode": "C39",
+    "wilayas": [
+      "Blida"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Aeronautique",
+      "Genie des Procedes",
+      "Energies Renouvelables (conversion Thermique)",
+      "Energies Renouvelables (conversion Photovoltaique)"
+    ],
+    "aliases": [
+      "Univ. Blida 1",
+      "Universite Blida 1",
+      "University Blida 1",
+      "UB",
+      "C39",
+      "Blida",
+      "Univ Blida 1",
+      "univ.blida1",
+      "niv. blida 1",
+      "nv. bld 1",
+      "nuiv. blida 1"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Univ. Blida 1 I.s.t.a",
+    "etbCode": "C47",
+    "wilayas": [
+      "Blida"
+    ],
+    "sampleMajors": [
+      "Sciences Alimentaires (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Blida 1 I.s.t.a",
+      "Universite Blida 1 I.s.t.a",
+      "University Blida 1 I.s.t.a",
+      "UBI",
+      "C47",
+      "Blida",
+      "Univ Blida 1 I.s.t.a",
+      "univ.blida1i.s.t.a",
+      "niv. blida 1 i.s.t.a",
+      "nv. bld 1 .s.t.",
+      "nuiv. blida 1 i.s.t.a"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Univ. Blida 2",
+    "etbCode": "C40",
+    "wilayas": [
+      "Blida"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Sciences Politiques",
+      "Droit",
+      "Langue Francaise",
+      "Traduction/interpretariat Arabe/francais/anglais",
+      "Langue Anglaise"
+    ],
+    "aliases": [
+      "Univ. Blida 2",
+      "Universite Blida 2",
+      "University Blida 2",
+      "UB",
+      "C40",
+      "Blida",
+      "Univ Blida 2",
+      "univ.blida2",
+      "niv. blida 2",
+      "nv. bld 2",
+      "nuiv. blida 2"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Univ Bouira",
+    "etbCode": "E27",
+    "wilayas": [
+      "Bouira"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ Bouira",
+      "University Bouira",
+      "UB",
+      "E27",
+      "Bouira",
+      "univbouira",
+      "niv bouira",
+      "nv br",
+      "nuiv bouira"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Univ. Bouira ± I.s.t.a",
+    "etbCode": "C48",
+    "wilayas": [
+      "Bouira"
+    ],
+    "sampleMajors": [
+      "Genie des Procedes (formations Professionnalisantes)",
+      "Hydraulique (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Bouira ± I.s.t.a",
+      "Universite Bouira ± I.s.t.a",
+      "University Bouira ± I.s.t.a",
+      "UBI",
+      "C48",
+      "Bouira",
+      "Univ Bouira ± I.s.t.a",
+      "univ.bouira±i.s.t.a",
+      "niv. bouira ± i.s.t.a",
+      "nv. br ± .s.t.",
+      "nuiv. bouira ± i.s.t.a"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Univ. Tamanghasset",
+    "etbCode": "C31",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere",
+      "Informatique"
+    ],
+    "aliases": [
+      "Univ. Tamanghasset",
+      "Universite Tamanghasset",
+      "University Tamanghasset",
+      "UT",
+      "C31",
+      "—",
+      "Univ Tamanghasset",
+      "univ.tamanghasset",
+      "niv. tamanghasset",
+      "nv. tmnghsst",
+      "nuiv. tamanghasset"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Univ. Tebessa",
+    "etbCode": "E12",
+    "wilayas": [
+      "Tebessa"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Minier",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Tebessa",
+      "Universite Tebessa",
+      "University Tebessa",
+      "UT",
+      "E12",
+      "Tebessa",
+      "Univ Tebessa",
+      "univ.tebessa",
+      "niv. tebessa",
+      "nv. tbss",
+      "nuiv. tebessa"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "C. Univ Maghnia",
+    "etbCode": "U47",
+    "wilayas": [
+      "Maghnia"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Droit",
+      "Langue Anglaise",
+      "Sciences Sociales"
+    ],
+    "aliases": [
+      "C. Univ Maghnia",
+      "UM",
+      "U47",
+      "Maghnia",
+      "c.univmaghnia",
+      "c. niv maghnia",
+      "c. nv mghn",
+      ".c univ maghnia"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Ecole Superieure de Management de Tlemcen",
+    "etbCode": "P24",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure de Management de Tlemcen"
+    ],
+    "aliases": [
+      "Ecole Superieure de Management de Tlemcen",
+      "ESMT",
+      "P24",
+      "Tlemcen",
+      "ecolesuperieuredemanagementdetlemcen",
+      "cole superieure de management de tlemcen",
+      "cl sprr d mngmnt d tlmcn",
+      "ceole superieure de management de tlemcen"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Ecole Superieure des Sciences Appliquees de Tlemcen",
+    "etbCode": "P13",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Superieure des Sciences Appliquees de Tlemcen"
+    ],
+    "aliases": [
+      "Ecole Superieure des Sciences Appliquees de Tlemcen",
+      "ESDSAT",
+      "P13",
+      "Tlemcen",
+      "ecolesuperieuredessciencesappliqueesdetlemcen",
+      "cole superieure des sciences appliquees de tlemcen",
+      "cl sprr ds scncs pplqs d tlmcn",
+      "ceole superieure des sciences appliquees de tlemcen"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Univ. Tlemcen",
+    "etbCode": "U06",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Industriel",
+      "Genie Mecanique (formations Professionnalisantes)",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Tlemcen",
+      "Universite Tlemcen",
+      "University Tlemcen",
+      "UT",
+      "U06",
+      "Tlemcen",
+      "Univ Tlemcen",
+      "univ.tlemcen",
+      "niv. tlemcen",
+      "nv. tlmcn",
+      "nuiv. tlemcen"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Univ. Tlemcen I.s.t.a",
+    "etbCode": "U48",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Genie Civil (formations Professionnalisantes)",
+      "Sciences Alimentaires (controle et Management de la Qualite en Industries Agroalimentaires) (formations Professionnalisantes)",
+      "Metiers de la Ville Geometre Topographe (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Tlemcen I.s.t.a",
+      "Universite Tlemcen I.s.t.a",
+      "University Tlemcen I.s.t.a",
+      "UTI",
+      "U48",
+      "Tlemcen",
+      "Univ Tlemcen I.s.t.a",
+      "univ.tlemceni.s.t.a",
+      "niv. tlemcen i.s.t.a",
+      "nv. tlmcn .s.t.",
+      "nuiv. tlemcen i.s.t.a"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Institut Veterinaire Univ. Tiaret",
+    "etbCode": "U41",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences Veterinaires"
+    ],
+    "aliases": [
+      "Institut Veterinaire Univ. Tiaret",
+      "IVUT",
+      "U41",
+      "Tiaret",
+      "Institut Veterinaire Univ Tiaret",
+      "institutveterinaireuniv.tiaret",
+      "nstitut veterinaire univ. tiaret",
+      "nsttt vtrnr nv. trt",
+      "nistitut veterinaire univ. tiaret"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Univ. Tiaret",
+    "etbCode": "U10",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Informatique",
+      "Mathematiques"
+    ],
+    "aliases": [
+      "Univ. Tiaret",
+      "Universite Tiaret",
+      "University Tiaret",
+      "UT",
+      "U10",
+      "Tiaret",
+      "Univ Tiaret",
+      "univ.tiaret",
+      "niv. tiaret",
+      "nv. trt",
+      "nuiv. tiaret"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Univ. Tiaret (+ A. Sougheur)",
+    "etbCode": "U32",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Tiaret (+ A. Sougheur)",
+      "Universite Tiaret (+ A. Sougheur)",
+      "University Tiaret (+ A. Sougheur)",
+      "UTS",
+      "U32",
+      "Tiaret",
+      "Univ Tiaret (+ A. Sougheur)",
+      "univ.tiaret(+a.sougheur)",
+      "niv. tiaret (+ a. sougheur)",
+      "nv. trt (+ . sghr)",
+      "nuiv. tiaret (+ a. sougheur)"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Univ. Tiaret (+ A.sougheur+a. Ksar Chellala)",
+    "etbCode": "U46",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Droit"
+    ],
+    "aliases": [
+      "Univ. Tiaret (+ A.sougheur+a. Ksar Chellala)",
+      "Universite Tiaret (+ A.sougheur+a. Ksar Chellala)",
+      "University Tiaret (+ A.sougheur+a. Ksar Chellala)",
+      "UTAKC",
+      "U46",
+      "Tiaret",
+      "Univ Tiaret (+ A.sougheur+a. Ksar Chellala)",
+      "univ.tiaret(+a.sougheur+a.ksarchellala)",
+      "niv. tiaret (+ a.sougheur+a. ksar chellala)",
+      "nv. trt (+ .sghr+. ksr chlll)",
+      "nuiv. tiaret (+ a.sougheur+a. ksar chellala)"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Univ. Tiaret (+a. Ksar Chellala)",
+    "etbCode": "U14",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences de la Nature et de la Vie",
+      "Geologie",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Sciences Humaines",
+      "Sciences Sociales",
+      "Langue et Litterature Arabes"
+    ],
+    "aliases": [
+      "Univ. Tiaret (+a. Ksar Chellala)",
+      "Universite Tiaret (+a. Ksar Chellala)",
+      "University Tiaret (+a. Ksar Chellala)",
+      "UTKC",
+      "U14",
+      "Tiaret",
+      "Univ Tiaret (+a. Ksar Chellala)",
+      "univ.tiaret(+a.ksarchellala)",
+      "niv. tiaret (+a. ksar chellala)",
+      "nv. trt (+. ksr chlll)",
+      "nuiv. tiaret (+a. ksar chellala)"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Univ. Tizi Ouzou",
+    "etbCode": "C14",
+    "wilayas": [
+      "Tizi Ouzou"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere",
+      "Informatique"
+    ],
+    "aliases": [
+      "Univ. Tizi Ouzou",
+      "Universite Tizi Ouzou",
+      "University Tizi Ouzou",
+      "UTO",
+      "C14",
+      "Tizi Ouzou",
+      "Univ Tizi Ouzou",
+      "univ.tiziouzou",
+      "niv. tizi ouzou",
+      "nv. tz z",
+      "nuiv. tizi ouzou"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ecole Nationale Polytechnique d Alger",
+    "etbCode": "C05",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Polytechnique d Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Polytechnique d Alger",
+      "ENPA",
+      "C05",
+      "Alger",
+      "ecolenationalepolytechniquedalger",
+      "cole nationale polytechnique d alger",
+      "cl ntnl pltchnq d lgr",
+      "ceole nationale polytechnique d alger"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Ecole Nationale Sup. des Sci. de la Mer et de l Amenagement du Littoral Alger",
+    "etbCode": "C11",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Ecole Nationale Superieure des Sciences de la Mer et de l Amenagement du Littoral d Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Sup. des Sci. de la Mer et de l Amenagement du Littoral Alger",
+      "ENSDSMALA",
+      "C11",
+      "Alger",
+      "ecolenationalesup.dessci.delameretdelamenagementdulittoralalger",
+      "cole nationale sup. des sci. de la mer et de l amenagement du littoral alger",
+      "cl ntnl sp. ds sc. d l mr t d l mngmnt d lttrl lgr",
+      "ceole nationale sup. des sci. de la mer et de l amenagement du littoral alger"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Ecole Nationale Superieure Agronomique Alger",
+    "etbCode": "C06",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb Snv Ecole Nationale Superieure Agronomique Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure Agronomique Alger",
+      "ENSAA",
+      "C06",
+      "Alger",
+      "ecolenationalesuperieureagronomiquealger",
+      "cole nationale superieure agronomique alger",
+      "cl ntnl sprr grnmq lgr",
+      "ceole nationale superieure agronomique alger"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ecole Nationale Superieure de Cyber Securite Alger",
+    "etbCode": "P11",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb Inf Ecole Nationale Superieure de Cyber Securite Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure de Cyber Securite Alger",
+      "ENSCSA",
+      "P11",
+      "Alger",
+      "ecolenationalesuperieuredecybersecuritealger",
+      "cole nationale superieure de cyber securite alger",
+      "cl ntnl sprr d cbr scrt lgr",
+      "ceole nationale superieure de cyber securite alger"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Ecole Nationale Superieure des Nanosciences et Nanotechenologies",
+    "etbCode": "P10",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure des Nanosciences et Nanotechenologies Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Nanosciences et Nanotechenologies",
+      "ENSDNN",
+      "P10",
+      "—",
+      "ecolenationalesuperieuredesnanosciencesetnanotechenologies",
+      "cole nationale superieure des nanosciences et nanotechenologies",
+      "cl ntnl sprr ds nnscncs t nntchnlgs",
+      "ceole nationale superieure des nanosciences et nanotechenologies"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Ecole Nationale Superieure des Systemes Autonomes",
+    "etbCode": "P09",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure des Systemes Autonomes Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Systemes Autonomes",
+      "ENSDSA",
+      "P09",
+      "—",
+      "ecolenationalesuperieuredessystemesautonomes",
+      "cole nationale superieure des systemes autonomes",
+      "cl ntnl sprr ds sstms tnms",
+      "ceole nationale superieure des systemes autonomes"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Ecole Nationale Superieure des Technologies Avancees Alger",
+    "etbCode": "P05",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure des Technologies Avancees Alger",
+      "Fb Inf Ecole Nationale Superieure des Technologies Avancees Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Technologies Avancees Alger",
+      "ENSDTAA",
+      "P05",
+      "Alger",
+      "ecolenationalesuperieuredestechnologiesavanceesalger",
+      "cole nationale superieure des technologies avancees alger",
+      "cl ntnl sprr ds tchnlgs vncs lgr",
+      "ceole nationale superieure des technologies avancees alger"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ecole Nationale Superieure des Technologies de l Information et de la Communication et la Poste",
+    "etbCode": "D02",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Technologies de l Information de la Communication et de la Numerisation"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Technologies de l Information et de la Communication et la Poste",
+      "ENSDTICP",
+      "D02",
+      "—",
+      "ecolenationalesuperieuredestechnologiesdelinformationetdelacommunicationetlaposte",
+      "cole nationale superieure des technologies de l information et de la communication et la poste",
+      "cl ntnl sprr ds tchnlgs d l nfrmtn t d l cmmnctn t l pst",
+      "ceole nationale superieure des technologies de l information et de la communication et la poste"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ecole Nationale Superieure des Travaux Publics Alger",
+    "etbCode": "D01",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure des Travaux Publics Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Travaux Publics Alger",
+      "ENSDTPA",
+      "D01",
+      "Alger",
+      "ecolenationalesuperieuredestravauxpublicsalger",
+      "cole nationale superieure des travaux publics alger",
+      "cl ntnl sprr ds trvx pblcs lgr",
+      "ceole nationale superieure des travaux publics alger"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Ecole Nationale Superieure en Informatique Alger",
+    "etbCode": "P04",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb Inf Ecole Nationale Superieure en Informatique Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure en Informatique Alger",
+      "ESI",
+      "ESI Alger",
+      "ENSIA",
+      "P04",
+      "Alger",
+      "ecolenationalesuperieureeninformatiquealger",
+      "cole nationale superieure en informatique alger",
+      "cl ntnl sprr n nfrmtq lgr",
+      "ceole nationale superieure en informatique alger"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Ecole Nationale Superieure en Intelligence Artificielle",
+    "etbCode": "P07",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Inf Ecole Nationale Superieure en Intelligence Artificielle Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure en Intelligence Artificielle",
+      "ENSIA",
+      "P07",
+      "—",
+      "ecolenationalesuperieureenintelligenceartificielle",
+      "cole nationale superieure en intelligence artificielle",
+      "cl ntnl sprr n ntllgnc rtfcll",
+      "ceole nationale superieure en intelligence artificielle"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Ecole Nationale Superieure en Mathematiques",
+    "etbCode": "P08",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Maths Ecole Nationale Superieure en Mathematiques Alger"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure en Mathematiques",
+      "ENSM",
+      "P08",
+      "—",
+      "ecolenationalesuperieureenmathematiques",
+      "cole nationale superieure en mathematiques",
+      "cl ntnl sprr n mthmtqs",
+      "ceole nationale superieure en mathematiques"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Ecole Nationale Superieure Veterinaire Alger",
+    "etbCode": "C10",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Sciences Veterinaires"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure Veterinaire Alger",
+      "ENSVA",
+      "C10",
+      "Alger",
+      "ecolenationalesuperieureveterinairealger",
+      "cole nationale superieure veterinaire alger",
+      "cl ntnl sprr vtrnr lgr",
+      "ceole nationale superieure veterinaire alger"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Ecole Polytechnique d Architecture et d Urbanisme Alger",
+    "etbCode": "P03",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Ecole Polytechnique d Architecture et d Urbanisme Alger"
+    ],
+    "aliases": [
+      "Ecole Polytechnique d Architecture et d Urbanisme Alger",
+      "EPAUA",
+      "P03",
+      "Alger",
+      "ecolepolytechniquedarchitectureetdurbanismealger",
+      "cole polytechnique d architecture et d urbanisme alger",
+      "cl pltchnq d rchtctr t d rbnsm lgr",
+      "ceole polytechnique d architecture et d urbanisme alger"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ecole Sup. des Sci. de l Aliment et des Industries Agroalimentaires Alger",
+    "etbCode": "P71",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Fb Snv Ecole Superieure des Sciences de l Aliment et des Industries Agroalimentaires d Alger"
+    ],
+    "aliases": [
+      "Ecole Sup. des Sci. de l Aliment et des Industries Agroalimentaires Alger",
+      "ESDSADIAA",
+      "P71",
+      "Alger",
+      "ecolesup.dessci.delalimentetdesindustriesagroalimentairesalger",
+      "cole sup. des sci. de l aliment et des industries agroalimentaires alger",
+      "cl sp. ds sc. d l lmnt t ds ndstrs grlmntrs lgr",
+      "ceole sup. des sci. de l aliment et des industries agroalimentaires alger"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Univ. Alger 1",
+    "etbCode": "C35",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques",
+      "Sciences de la Nature et de la Vie",
+      "Droit",
+      "Sciences Islamiques"
+    ],
+    "aliases": [
+      "Univ. Alger 1",
+      "Universite Alger 1",
+      "University Alger 1",
+      "UA",
+      "C35",
+      "Alger",
+      "Univ Alger 1",
+      "univ.alger1",
+      "niv. alger 1",
+      "nv. lgr 1",
+      "nuiv. alger 1"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Univ. Alger 2",
+    "etbCode": "C36",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Langue Francaise",
+      "Langue Espagnole",
+      "Traduction Interpretariat (arabe, Francais, Anglais)",
+      "Traduction Interpretariat (arabe, Francais, Espagnole)",
+      "Langue Allemande",
+      "Langue Russe"
+    ],
+    "aliases": [
+      "Univ. Alger 2",
+      "Universite Alger 2",
+      "University Alger 2",
+      "UA",
+      "C36",
+      "Alger",
+      "Univ Alger 2",
+      "univ.alger2",
+      "niv. alger 2",
+      "nv. lgr 2",
+      "nuiv. alger 2"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Univ. Alger 3",
+    "etbCode": "C37",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Sciences Politiques",
+      "Sciences Humaines Sciences de l Information et de la Communication",
+      "Sciences et Techniques des Activites Physiques et Sportives"
+    ],
+    "aliases": [
+      "Univ. Alger 3",
+      "Universite Alger 3",
+      "University Alger 3",
+      "UA",
+      "C37",
+      "Alger",
+      "Univ Alger 3",
+      "univ.alger3",
+      "niv. alger 3",
+      "nv. lgr 3",
+      "nuiv. alger 3"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Universite des Sciences Medicales Alger",
+    "etbCode": "C02",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Pharmacie Industrie des Produits Pharmaceutiques et de Sante",
+      "Pharmacie Auxiliaires en Pharmacie"
+    ],
+    "aliases": [
+      "Universite des Sciences Medicales Alger",
+      "University ersite des Sciences Medicales Alger",
+      "UDSMA",
+      "C02",
+      "Alger",
+      "universitedessciencesmedicalesalger",
+      "niversite des sciences medicales alger",
+      "nvrst ds scncs mdcls lgr",
+      "nuiversite des sciences medicales alger"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Usthb",
+    "etbCode": "C01",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Usthb",
+      "U",
+      "C01",
+      "—",
+      "sthb",
+      "suthb"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Univ. Djelfa",
+    "etbCode": "C21",
+    "wilayas": [
+      "Djelfa"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Djelfa",
+      "Universite Djelfa",
+      "University Djelfa",
+      "UD",
+      "C21",
+      "Djelfa",
+      "Univ Djelfa",
+      "univ.djelfa",
+      "niv. djelfa",
+      "nv. djlf",
+      "nuiv. djelfa"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Univ. Jijel",
+    "etbCode": "E11",
+    "wilayas": [
+      "Jijel"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Jijel",
+      "Universite Jijel",
+      "University Jijel",
+      "UJ",
+      "E11",
+      "Jijel",
+      "Univ Jijel",
+      "univ.jijel",
+      "niv. jijel",
+      "nv. jjl",
+      "nuiv. jijel"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Univ. Setif 1",
+    "etbCode": "E07",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Optique et Mecanique de Precision (optometrie) (formations Professionnalisantes)",
+      "Optique et Mecanique de Precision (metrologie et Controle Industriel) (formations Professionnalisantes)",
+      "Optique et Mecanique de Precision"
+    ],
+    "aliases": [
+      "Univ. Setif 1",
+      "Universite Setif 1",
+      "University Setif 1",
+      "US",
+      "E07",
+      "Setif",
+      "Univ Setif 1",
+      "univ.setif1",
+      "niv. setif 1",
+      "nv. stf 1",
+      "nuiv. setif 1"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Univ. Setif 2",
+    "etbCode": "E35",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Sciences Politiques",
+      "Droit",
+      "Langue Francaise",
+      "Traduction Interpretariat (arabe, Francais, Anglais)",
+      "Langue Anglaise",
+      "Sciences Humaines"
+    ],
+    "aliases": [
+      "Univ. Setif 2",
+      "Universite Setif 2",
+      "University Setif 2",
+      "US",
+      "E35",
+      "Setif",
+      "Univ Setif 2",
+      "univ.setif2",
+      "niv. setif 2",
+      "nv. stf 2",
+      "nuiv. setif 2"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Univ. Saida",
+    "etbCode": "U09",
+    "wilayas": [
+      "Saida"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Sciences de la Matiere",
+      "Informatique"
+    ],
+    "aliases": [
+      "Univ. Saida",
+      "Universite Saida",
+      "University Saida",
+      "US",
+      "U09",
+      "Saida",
+      "Univ Saida",
+      "univ.saida",
+      "niv. saida",
+      "nv. sd",
+      "nuiv. saida"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Univ. Skikda",
+    "etbCode": "E16",
+    "wilayas": [
+      "Skikda"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Industries Petrochimiques",
+      "Electrotechnique",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Skikda",
+      "Universite Skikda",
+      "University Skikda",
+      "US",
+      "E16",
+      "Skikda",
+      "Univ Skikda",
+      "univ.skikda",
+      "niv. skikda",
+      "nv. skkd",
+      "nuiv. skikda"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Univ.skikda I.s.t.a",
+    "etbCode": "W82",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Automatique (formations Professionnalisantes)",
+      "Hygiene et Securite Industrielle (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ.skikda I.s.t.a",
+      "Universite skikda I.s.t.a",
+      "University skikda I.s.t.a",
+      "UI",
+      "W82",
+      "—",
+      "Univskikda I.s.t.a",
+      "univ.skikdai.s.t.a",
+      "niv.skikda i.s.t.a",
+      "nv.skkd .s.t.",
+      "nuiv.skikda i.s.t.a"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Ecole Superieure en Informatique Sidi Bel Abbes",
+    "etbCode": "P42",
+    "wilayas": [
+      "Sidi Bel Abbes"
+    ],
+    "sampleMajors": [
+      "Fb Inf Ecole Superieure en Informatiquesidi Bel Abbes"
+    ],
+    "aliases": [
+      "Ecole Superieure en Informatique Sidi Bel Abbes",
+      "ESISBA",
+      "P42",
+      "Sidi Bel Abbes",
+      "ecolesuperieureeninformatiquesidibelabbes",
+      "cole superieure en informatique sidi bel abbes",
+      "cl sprr n nfrmtq sd bl bbs",
+      "ceole superieure en informatique sidi bel abbes"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Univ. Sidi Bel Abbes",
+    "etbCode": "U07",
+    "wilayas": [
+      "Sidi Bel Abbes"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Electronique (systemes Electroniques Autonomes et Intelligence Artificielle)",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Sidi Bel Abbes",
+      "Universite Sidi Bel Abbes",
+      "University Sidi Bel Abbes",
+      "USBA",
+      "U07",
+      "Sidi Bel Abbes",
+      "Univ Sidi Bel Abbes",
+      "univ.sidibelabbes",
+      "niv. sidi bel abbes",
+      "nv. sd bl bbs",
+      "nuiv. sidi bel abbes"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Ecole Nationale Superieure des Technologies et d Ingenierie Annaba",
+    "etbCode": "P12",
+    "wilayas": [
+      "Annaba"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure des Technologies et d Ingenierie Annaba"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Technologies et d Ingenierie Annaba",
+      "ENSDTIA",
+      "P12",
+      "Annaba",
+      "ecolenationalesuperieuredestechnologiesetdingenierieannaba",
+      "cole nationale superieure des technologies et d ingenierie annaba",
+      "cl ntnl sprr ds tchnlgs t d ngnr nnb",
+      "ceole nationale superieure des technologies et d ingenierie annaba"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ecole Superieure des Sciences de Gestion de Annaba",
+    "etbCode": "P23",
+    "wilayas": [
+      "Annaba"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure des Sciences de Gestion de Annaba"
+    ],
+    "aliases": [
+      "Ecole Superieure des Sciences de Gestion de Annaba",
+      "ESDSGA",
+      "P23",
+      "Annaba",
+      "ecolesuperieuredessciencesdegestiondeannaba",
+      "cole superieure des sciences de gestion de annaba",
+      "cl sprr ds scncs d gstn d nnb",
+      "ceole superieure des sciences de gestion de annaba"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Univ. Annaba",
+    "etbCode": "E04",
+    "wilayas": [
+      "Annaba"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Minier",
+      "Automatique (a Distance)",
+      "Metallurgie",
+      "Genie Civil",
+      "Genie des Procedes"
+    ],
+    "aliases": [
+      "Univ. Annaba",
+      "Universite Annaba",
+      "University Annaba",
+      "UA",
+      "E04",
+      "Annaba",
+      "Univ Annaba",
+      "univ.annaba",
+      "niv. annaba",
+      "nv. nnb",
+      "nuiv. annaba"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Univ. Guelma",
+    "etbCode": "E15",
+    "wilayas": [
+      "Guelma"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Hydraulique (formations Professionnalisantes)",
+      "Electrotechnique (formations Professionnalisantes)",
+      "Electrotechnique"
+    ],
+    "aliases": [
+      "Univ. Guelma",
+      "Universite Guelma",
+      "University Guelma",
+      "UG",
+      "E15",
+      "Guelma",
+      "Univ Guelma",
+      "univ.guelma",
+      "niv. guelma",
+      "nv. glm",
+      "nuiv. guelma"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Ecole Nationale Superieure de Biotechnologie de Constantine",
+    "etbCode": "P06",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Ecole Nationale Superieure de Biotechnologie de Constantine"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure de Biotechnologie de Constantine",
+      "ENSBC",
+      "P06",
+      "Constantine",
+      "ecolenationalesuperieuredebiotechnologiedeconstantine",
+      "cole nationale superieure de biotechnologie de constantine",
+      "cl ntnl sprr d btchnlg d cnstntn",
+      "ceole nationale superieure de biotechnologie de constantine"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Ecole Nationale Superieure Polytechnique de Constantine",
+    "etbCode": "E37",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Superieure Polytechnique de Constantine"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure Polytechnique de Constantine",
+      "ENSPC",
+      "E37",
+      "Constantine",
+      "ecolenationalesuperieurepolytechniquedeconstantine",
+      "cole nationale superieure polytechnique de constantine",
+      "cl ntnl sprr pltchnq d cnstntn",
+      "ceole nationale superieure polytechnique de constantine"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Ecole Superieure de Comptabilite et de Finance de Constantine",
+    "etbCode": "P22",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure de Comptabilite et de Finance de Constantine"
+    ],
+    "aliases": [
+      "Ecole Superieure de Comptabilite et de Finance de Constantine",
+      "ESCFC",
+      "P22",
+      "Constantine",
+      "ecolesuperieuredecomptabiliteetdefinancedeconstantine",
+      "cole superieure de comptabilite et de finance de constantine",
+      "cl sprr d cmptblt t d fnnc d cnstntn",
+      "ceole superieure de comptabilite et de finance de constantine"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Institut Veterinaire Univ.constantine 1",
+    "etbCode": "E47",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Veterinaires"
+    ],
+    "aliases": [
+      "Institut Veterinaire Univ.constantine 1",
+      "IVU",
+      "E47",
+      "—",
+      "Institut Veterinaire Univconstantine 1",
+      "institutveterinaireuniv.constantine1",
+      "nstitut veterinaire univ.constantine 1",
+      "nsttt vtrnr nv.cnstntn 1",
+      "nistitut veterinaire univ.constantine 1"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Univ. Constantine 1",
+    "etbCode": "E01",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Ingenierie des Transports (formations Professionnalisantes)",
+      "Ingenierie des Transports",
+      "Electrotechnique (formations Professionnalisantes)",
+      "Electrotechnique"
+    ],
+    "aliases": [
+      "Univ. Constantine 1",
+      "Universite Constantine 1",
+      "University Constantine 1",
+      "UC",
+      "E01",
+      "Constantine",
+      "Univ Constantine 1",
+      "univ.constantine1",
+      "niv. constantine 1",
+      "nv. cnstntn 1",
+      "nuiv. constantine 1"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Univ. Constantine 1 I.s.t.a",
+    "etbCode": "E46",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Electromecanique (formations Professionnalisantes)",
+      "Genie Mecanique (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Constantine 1 I.s.t.a",
+      "Universite Constantine 1 I.s.t.a",
+      "University Constantine 1 I.s.t.a",
+      "UCI",
+      "E46",
+      "Constantine",
+      "Univ Constantine 1 I.s.t.a",
+      "univ.constantine1i.s.t.a",
+      "niv. constantine 1 i.s.t.a",
+      "nv. cnstntn 1 .s.t.",
+      "nuiv. constantine 1 i.s.t.a"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Univ. Constantine 2",
+    "etbCode": "E33",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Informatique",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Sciences Humaines Bibliotheconomie",
+      "Sciences Humaines",
+      "Sciences Sociales",
+      "Sciences et Techniques des Activites Physiques et Sportives"
+    ],
+    "aliases": [
+      "Univ. Constantine 2",
+      "Universite Constantine 2",
+      "University Constantine 2",
+      "UC",
+      "E33",
+      "Constantine",
+      "Univ Constantine 2",
+      "univ.constantine2",
+      "niv. constantine 2",
+      "nv. cnstntn 2",
+      "nuiv. constantine 2"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Univ. Constantine 3",
+    "etbCode": "E34",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Genie des Procedes",
+      "Sciences Politiques",
+      "Sciences Humaines Sciences de l Information et de la Communication",
+      "Arts",
+      "Production et Design Numerique - Production de Contenu Numerique",
+      "Musicien Interprete et Createur"
+    ],
+    "aliases": [
+      "Univ. Constantine 3",
+      "Universite Constantine 3",
+      "University Constantine 3",
+      "UC",
+      "E34",
+      "Constantine",
+      "Univ Constantine 3",
+      "univ.constantine3",
+      "niv. constantine 3",
+      "nv. cnstntn 3",
+      "nuiv. constantine 3"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Univ. Constantine 3 (genie des Procedes)",
+    "etbCode": "E53",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies"
+    ],
+    "aliases": [
+      "Univ. Constantine 3 (genie des Procedes)",
+      "Universite Constantine 3 (genie des Procedes)",
+      "University Constantine 3 (genie des Procedes)",
+      "UCGDP",
+      "E53",
+      "Constantine",
+      "Univ Constantine 3 (genie des Procedes)",
+      "univ.constantine3(geniedesprocedes)",
+      "niv. constantine 3 (genie des procedes)",
+      "nv. cnstntn 3 (gn ds prcds)",
+      "nuiv. constantine 3 (genie des procedes)"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Univ. Sci Islamiques Emir (e.a.k)",
+    "etbCode": "E18",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Langue Turque",
+      "Sciences Humaines",
+      "Sciences Islamiques",
+      "Langue et Litterature Arabes"
+    ],
+    "aliases": [
+      "Univ. Sci Islamiques Emir (e.a.k)",
+      "Universite Sci Islamiques Emir (e.a.k)",
+      "University Sci Islamiques Emir (e.a.k)",
+      "USIEE",
+      "E18",
+      "—",
+      "Univ Sci Islamiques Emir (e.a.k)",
+      "univ.sciislamiquesemir(e.a.k)",
+      "niv. sci islamiques emir (e.a.k)",
+      "nv. sc slmqs mr (..k)",
+      "nuiv. sci islamiques emir (e.a.k)"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Univ. Medea",
+    "etbCode": "C17",
+    "wilayas": [
+      "Medea"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Medea",
+      "Universite Medea",
+      "University Medea",
+      "UM",
+      "C17",
+      "Medea",
+      "Univ Medea",
+      "univ.medea",
+      "niv. medea",
+      "nv. md",
+      "nuiv. medea"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Ecole Superieure Agronomique de Mostaganem",
+    "etbCode": "P72",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Fb Snv Ecole Superieure Agronomique de Mostaganem"
+    ],
+    "aliases": [
+      "Ecole Superieure Agronomique de Mostaganem",
+      "ESAM",
+      "P72",
+      "Mostaganem",
+      "ecolesuperieureagronomiquedemostaganem",
+      "cole superieure agronomique de mostaganem",
+      "cl sprr grnmq d mstgnm",
+      "ceole superieure agronomique de mostaganem"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Univ. Mostaganem",
+    "etbCode": "U08",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Mostaganem",
+      "Universite Mostaganem",
+      "University Mostaganem",
+      "UM",
+      "U08",
+      "Mostaganem",
+      "Univ Mostaganem",
+      "univ.mostaganem",
+      "niv. mostaganem",
+      "nv. mstgnm",
+      "nuiv. mostaganem"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Univ. Msila",
+    "etbCode": "E14",
+    "wilayas": [
+      "Msila"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Energies Renouvelables (formations Professionnalisantes)",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Msila",
+      "Universite Msila",
+      "University Msila",
+      "UM",
+      "E14",
+      "Msila",
+      "Univ Msila",
+      "univ.msila",
+      "niv. msila",
+      "nv. msl",
+      "nuiv. msila"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Univ. Mascara",
+    "etbCode": "U13",
+    "wilayas": [
+      "Mascara"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Mascara",
+      "Universite Mascara",
+      "University Mascara",
+      "UM",
+      "U13",
+      "Mascara",
+      "Univ Mascara",
+      "univ.mascara",
+      "niv. mascara",
+      "nv. mscr",
+      "nuiv. mascara"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Univ. Ouargla",
+    "etbCode": "E17",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Hydrocarbures (forage) (formations Professionnalisantes)",
+      "Hydrocarbures (mecanique des Chantiers Petroliers) (formations Professionnalisantes)",
+      "Hydrocarbures",
+      "Genie Civil",
+      "Genie des Procedes"
+    ],
+    "aliases": [
+      "Univ. Ouargla",
+      "Universite Ouargla",
+      "University Ouargla",
+      "UO",
+      "E17",
+      "Ouargla",
+      "Univ Ouargla",
+      "univ.ouargla",
+      "niv. ouargla",
+      "nv. rgl",
+      "nuiv. ouargla"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Univ. Ouargla ± I.s.t.a.",
+    "etbCode": "E49",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Optique et Mecanique de Precision (formations Professionnalisantes)",
+      "Hygiene et Securite Industrielle (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Ouargla ± I.s.t.a.",
+      "Universite Ouargla ± I.s.t.a.",
+      "University Ouargla ± I.s.t.a.",
+      "UOI",
+      "E49",
+      "Ouargla",
+      "Univ Ouargla ± I.s.t.a.",
+      "univ.ouargla±i.s.t.a.",
+      "niv. ouargla ± i.s.t.a.",
+      "nv. rgl ± .s.t..",
+      "nuiv. ouargla ± i.s.t.a."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Ecole Nationale Polytechnique d Oran",
+    "etbCode": "P27",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Nationale Polytechnique d Oran"
+    ],
+    "aliases": [
+      "Ecole Nationale Polytechnique d Oran",
+      "ENPO",
+      "P27",
+      "Oran",
+      "ecolenationalepolytechniquedoran",
+      "cole nationale polytechnique d oran",
+      "cl ntnl pltchnq d rn",
+      "ceole nationale polytechnique d oran"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Ecole Nationale Superieure des Telecommunications et des Technologie de Tic",
+    "etbCode": "D03",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Communications Filaires et Sans Fil"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Telecommunications et des Technologie de Tic",
+      "ENSDTDTT",
+      "D03",
+      "—",
+      "ecolenationalesuperieuredestelecommunicationsetdestechnologiedetic",
+      "cole nationale superieure des telecommunications et des technologie de tic",
+      "cl ntnl sprr ds tlcmmnctns t ds tchnlg d tc",
+      "ceole nationale superieure des telecommunications et des technologie de tic"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Ecole Superieure d Economie d Oran",
+    "etbCode": "P25",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure de d Economie d Oran"
+    ],
+    "aliases": [
+      "Ecole Superieure d Economie d Oran",
+      "ESEO",
+      "P25",
+      "Oran",
+      "ecolesuperieuredeconomiedoran",
+      "cole superieure d economie d oran",
+      "cl sprr d cnm d rn",
+      "ceole superieure d economie d oran"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Ecole Superieure des Sciences Biologiques d Oran",
+    "etbCode": "P81",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Fb Snv Ecole Superieure des Sciences Biologiques d Oran"
+    ],
+    "aliases": [
+      "Ecole Superieure des Sciences Biologiques d Oran",
+      "ESDSBO",
+      "P81",
+      "Oran",
+      "ecolesuperieuredessciencesbiologiquesdoran",
+      "cole superieure des sciences biologiques d oran",
+      "cl sprr ds scncs blgqs d rn",
+      "ceole superieure des sciences biologiques d oran"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Ecole Superieure en Genie Electrique et Energetique d Oran",
+    "etbCode": "P14",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Fb St Ecole Superieure en Genie Electrique et Energetique d Oran"
+    ],
+    "aliases": [
+      "Ecole Superieure en Genie Electrique et Energetique d Oran",
+      "ESGEEO",
+      "P14",
+      "Oran",
+      "ecolesuperieureengenieelectriqueetenergetiquedoran",
+      "cole superieure en genie electrique et energetique d oran",
+      "cl sprr n gn lctrq t nrgtq d rn",
+      "ceole superieure en genie electrique et energetique d oran"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "U.s.t.o. (oran)",
+    "etbCode": "U02",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Automatique (systeme Automobile)",
+      "Metallurgie",
+      "Genie Civil",
+      "Aeronautique",
+      "Genie des Procedes"
+    ],
+    "aliases": [
+      "U.s.t.o. (oran)",
+      "UO",
+      "U02",
+      "—",
+      "u.s.t.o.(oran)",
+      ".s.t.o. (oran)",
+      ".s.t.. (rn)",
+      ".us.t.o. (oran)"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Univ. Oran 1",
+    "etbCode": "U30",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie des Procedes",
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques",
+      "Sciences de la Nature et de la Vie"
+    ],
+    "aliases": [
+      "Univ. Oran 1",
+      "Universite Oran 1",
+      "University Oran 1",
+      "UO",
+      "U30",
+      "Oran",
+      "Univ Oran 1",
+      "univ.oran1",
+      "niv. oran 1",
+      "nv. rn 1",
+      "nuiv. oran 1"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Univ. Oran 1 I.s.t.a",
+    "etbCode": "U49",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Optique et Mecanique de Precision (formations Professionnalisantes)",
+      "Physique (formations Professionnalisantes)",
+      "Sciences de Gestion Sciences Financieres et Comptabilite (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Oran 1 I.s.t.a",
+      "Universite Oran 1 I.s.t.a",
+      "University Oran 1 I.s.t.a",
+      "UOI",
+      "U49",
+      "Oran",
+      "Univ Oran 1 I.s.t.a",
+      "univ.oran1i.s.t.a",
+      "niv. oran 1 i.s.t.a",
+      "nv. rn 1 .s.t.",
+      "nuiv. oran 1 i.s.t.a"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Univ. Oran 2",
+    "etbCode": "U31",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Electromecanique",
+      "Genie Industriel",
+      "Hygiene et Securite Industrielle",
+      "Geographie et Amenagement du Territoire",
+      "Geologie",
+      "Sciences Economiques, de Gestion et Commerciales"
+    ],
+    "aliases": [
+      "Univ. Oran 2",
+      "Universite Oran 2",
+      "University Oran 2",
+      "UO",
+      "U31",
+      "Oran",
+      "Univ Oran 2",
+      "univ.oran2",
+      "niv. oran 2",
+      "nv. rn 2",
+      "nuiv. oran 2"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Usto Oran I.s.t.a",
+    "etbCode": "W90",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Genie Industriel (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Usto Oran I.s.t.a",
+      "UOI",
+      "W90",
+      "Oran",
+      "ustoorani.s.t.a",
+      "sto oran i.s.t.a",
+      "st rn .s.t.",
+      "suto oran i.s.t.a"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "C. Univ. El Bayadh",
+    "etbCode": "U26",
+    "wilayas": [
+      "El Bayadh"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques"
+    ],
+    "aliases": [
+      "C. Univ. El Bayadh",
+      "UB",
+      "U26",
+      "El Bayadh",
+      "C. Univ El Bayadh",
+      "c.univ.elbayadh",
+      "c. niv. el bayadh",
+      "c. nv. l bdh",
+      ".c univ. el bayadh"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "C. Univ Illizi",
+    "etbCode": "C41",
+    "wilayas": [
+      "Illizi"
+    ],
+    "sampleMajors": [
+      "Informatique",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Droit",
+      "Langue Anglaise",
+      "Sciences Sociales"
+    ],
+    "aliases": [
+      "C. Univ Illizi",
+      "UI",
+      "C41",
+      "Illizi",
+      "c.univillizi",
+      "c. niv illizi",
+      "c. nv llz",
+      ".c univ illizi"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Univ Bordj Bou Arreridj",
+    "etbCode": "E23",
+    "wilayas": [
+      "Bordj Bou Arreridj"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electromecanique (electromecanique d Automobile)",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Electronique"
+    ],
+    "aliases": [
+      "Univ Bordj Bou Arreridj",
+      "University Bordj Bou Arreridj",
+      "UBBA",
+      "E23",
+      "Bordj Bou Arreridj",
+      "univbordjbouarreridj",
+      "niv bordj bou arreridj",
+      "nv brdj b rrrdj",
+      "nuiv bordj bou arreridj"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Univ. Boumerdes",
+    "etbCode": "C27",
+    "wilayas": [
+      "Boumerdes"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Automatique",
+      "Hydrocarbures",
+      "Genie Civil",
+      "Electromecanique",
+      "Genie des Procedes"
+    ],
+    "aliases": [
+      "Univ. Boumerdes",
+      "Universite Boumerdes",
+      "University Boumerdes",
+      "UB",
+      "C27",
+      "Boumerdes",
+      "Univ Boumerdes",
+      "univ.boumerdes",
+      "niv. boumerdes",
+      "nv. bmrds",
+      "nuiv. boumerdes"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Univ. Boumerdes I.s.t.a",
+    "etbCode": "W80",
+    "wilayas": [
+      "Boumerdes"
+    ],
+    "sampleMajors": [
+      "Optique et Mecanique de Precision (formations Professionnalisantes)"
+    ],
+    "aliases": [
+      "Univ. Boumerdes I.s.t.a",
+      "Universite Boumerdes I.s.t.a",
+      "University Boumerdes I.s.t.a",
+      "UBI",
+      "W80",
+      "Boumerdes",
+      "Univ Boumerdes I.s.t.a",
+      "univ.boumerdesi.s.t.a",
+      "niv. boumerdes i.s.t.a",
+      "nv. bmrds .s.t.",
+      "nuiv. boumerdes i.s.t.a"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Univ. El Tarf",
+    "etbCode": "E02",
+    "wilayas": [
+      "El Tarf"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques",
+      "Sciences de la Nature et de la Vie",
+      "Sciences Agronomiques"
+    ],
+    "aliases": [
+      "Univ. El Tarf",
+      "Universite El Tarf",
+      "University El Tarf",
+      "UT",
+      "E02",
+      "El Tarf",
+      "Univ El Tarf",
+      "univ.eltarf",
+      "niv. el tarf",
+      "nv. l trf",
+      "nuiv. el tarf"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "C. Univ. Tindouf",
+    "etbCode": "U27",
+    "wilayas": [
+      "Tindouf"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Informatique",
+      "Geologie",
+      "Sciences Economiques, de Gestion et Commerciales",
+      "Droit",
+      "Langue et Litterature Arabes"
+    ],
+    "aliases": [
+      "C. Univ. Tindouf",
+      "UT",
+      "U27",
+      "Tindouf",
+      "C. Univ Tindouf",
+      "c.univ.tindouf",
+      "c. niv. tindouf",
+      "c. nv. tndf",
+      ".c univ. tindouf"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Univ. Tissemsilt",
+    "etbCode": "U21",
+    "wilayas": [
+      "Tissemsilt"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie Mecanique",
+      "Sciences de la Matiere",
+      "Informatique",
+      "Mathematiques"
+    ],
+    "aliases": [
+      "Univ. Tissemsilt",
+      "Universite Tissemsilt",
+      "University Tissemsilt",
+      "UT",
+      "U21",
+      "Tissemsilt",
+      "Univ Tissemsilt",
+      "univ.tissemsilt",
+      "niv. tissemsilt",
+      "nv. tssmslt",
+      "nuiv. tissemsilt"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Ecole Nationale Superieure d Agriculture Saharienne d El Oued",
+    "etbCode": "P74",
+    "wilayas": [
+      "El Oued"
+    ],
+    "sampleMajors": [
+      "Ecole Nationale Superieure d Agriculture Saharienne d El Oued"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure d Agriculture Saharienne d El Oued",
+      "ENSASO",
+      "P74",
+      "El Oued",
+      "ecolenationalesuperieuredagriculturesahariennedeloued",
+      "cole nationale superieure d agriculture saharienne d el oued",
+      "cl ntnl sprr d grcltr shrnn d l d",
+      "ceole nationale superieure d agriculture saharienne d el oued"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Univ El Oued",
+    "etbCode": "E25",
+    "wilayas": [
+      "El Oued"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ El Oued",
+      "University El Oued",
+      "UO",
+      "E25",
+      "El Oued",
+      "univeloued",
+      "niv el oued",
+      "nv l d",
+      "nuiv el oued"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Ecole Nationale Superieure des Forets Khenchela",
+    "etbCode": "W91",
+    "wilayas": [
+      "Khenchela"
+    ],
+    "sampleMajors": [
+      "Fb Snv Ecole Nationale Superieure des Forets de Khenchela"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure des Forets Khenchela",
+      "ENSDFK",
+      "W91",
+      "Khenchela",
+      "ecolenationalesuperieuredesforetskhenchela",
+      "cole nationale superieure des forets khenchela",
+      "cl ntnl sprr ds frts khnchl",
+      "ceole nationale superieure des forets khenchela"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Univ Khenchela",
+    "etbCode": "E24",
+    "wilayas": [
+      "Khenchela"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ Khenchela",
+      "University Khenchela",
+      "UK",
+      "E24",
+      "Khenchela",
+      "univkhenchela",
+      "niv khenchela",
+      "nv khnchl",
+      "nuiv khenchela"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Univ Souk Ahras",
+    "etbCode": "E26",
+    "wilayas": [
+      "Souk Ahras"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ Souk Ahras",
+      "University Souk Ahras",
+      "USA",
+      "E26",
+      "Souk Ahras",
+      "univsoukahras",
+      "niv souk ahras",
+      "nv sk hrs",
+      "nuiv souk ahras"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "C. Univ. Tipaza",
+    "etbCode": "C38",
+    "wilayas": [
+      "Tipaza"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Mathematiques",
+      "Sciences de la Nature et de la Vie",
+      "Sciences Agronomiques"
+    ],
+    "aliases": [
+      "C. Univ. Tipaza",
+      "UT",
+      "C38",
+      "Tipaza",
+      "C. Univ Tipaza",
+      "c.univ.tipaza",
+      "c. niv. tipaza",
+      "c. nv. tpz",
+      ".c univ. tipaza"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Ecole des Hautes Etudes Commerciales Kolea",
+    "etbCode": "C04",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole des Hautes Etudes Commerciales Kolea"
+    ],
+    "aliases": [
+      "Ecole des Hautes Etudes Commerciales Kolea",
+      "EDHECK",
+      "C04",
+      "—",
+      "ecoledeshautesetudescommercialeskolea",
+      "cole des hautes etudes commerciales kolea",
+      "cl ds hts tds cmmrcls kl",
+      "ceole des hautes etudes commerciales kolea"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Ecole Nationale Superieure de Conservation et de Restauration des Biens Culturels",
+    "etbCode": "D04",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Conservation et Restauration des Biens Culturels"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure de Conservation et de Restauration des Biens Culturels",
+      "ENSCRDBC",
+      "D04",
+      "—",
+      "ecolenationalesuperieuredeconservationetderestaurationdesbiensculturels",
+      "cole nationale superieure de conservation et de restauration des biens culturels",
+      "cl ntnl sprr d cnsrvtn t d rstrtn ds bns cltrls",
+      "ceole nationale superieure de conservation et de restauration des biens culturels"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Ecole Nationale Superieure en Statistique et en Economie Appliquee de Kolea",
+    "etbCode": "C45",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Nationale Superieure en Statistique et en Economie Appliquee Kolea"
+    ],
+    "aliases": [
+      "Ecole Nationale Superieure en Statistique et en Economie Appliquee de Kolea",
+      "ENSSEAK",
+      "C45",
+      "—",
+      "ecolenationalesuperieureenstatistiqueeteneconomieappliqueedekolea",
+      "cole nationale superieure en statistique et en economie appliquee de kolea",
+      "cl ntnl sprr n sttstq t n cnm pplq d kl",
+      "ceole nationale superieure en statistique et en economie appliquee de kolea"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Ecole Superieure de Commerce Kolea",
+    "etbCode": "C03",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure de Commerce Kolea"
+    ],
+    "aliases": [
+      "Ecole Superieure de Commerce Kolea",
+      "ESCK",
+      "C03",
+      "—",
+      "ecolesuperieuredecommercekolea",
+      "cole superieure de commerce kolea",
+      "cl sprr d cmmrc kl",
+      "ceole superieure de commerce kolea"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Ecole Superieure de Gestion et de l Economie Numerique ± Kolea",
+    "etbCode": "W83",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Fb Secsg Ecole Superieure de Gestion et de l Economie Numerique Kolea"
+    ],
+    "aliases": [
+      "Ecole Superieure de Gestion et de l Economie Numerique ± Kolea",
+      "ESGENK",
+      "W83",
+      "—",
+      "ecolesuperieuredegestionetdeleconomienumerique±kolea",
+      "cole superieure de gestion et de l economie numerique ± kolea",
+      "cl sprr d gstn t d l cnm nmrq ± kl",
+      "ceole superieure de gestion et de l economie numerique ± kolea"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "C. Univ Mila",
+    "etbCode": "E28",
+    "wilayas": [
+      "Mila"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Genie Mecanique",
+      "Informatique",
+      "Mathematiques"
+    ],
+    "aliases": [
+      "C. Univ Mila",
+      "UM",
+      "E28",
+      "Mila",
+      "c.univmila",
+      "c. niv mila",
+      "c. nv ml",
+      ".c univ mila"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Univ. Khemis Miliana",
+    "etbCode": "C30",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Khemis Miliana",
+      "Universite Khemis Miliana",
+      "University Khemis Miliana",
+      "UKM",
+      "C30",
+      "—",
+      "Univ Khemis Miliana",
+      "univ.khemismiliana",
+      "niv. khemis miliana",
+      "nv. khms mln",
+      "nuiv. khemis miliana"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "C. Univ. Naama",
+    "etbCode": "U25",
+    "wilayas": [
+      "Naama"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere",
+      "Informatique"
+    ],
+    "aliases": [
+      "C. Univ. Naama",
+      "UN",
+      "U25",
+      "Naama",
+      "C. Univ Naama",
+      "c.univ.naama",
+      "c. niv. naama",
+      "c. nv. nm",
+      ".c univ. naama"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Univ. Ain Temouchent",
+    "etbCode": "U22",
+    "wilayas": [
+      "Ain Temouchent"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique",
+      "Sciences de la Matiere"
+    ],
+    "aliases": [
+      "Univ. Ain Temouchent",
+      "Universite Ain Temouchent",
+      "University Ain Temouchent",
+      "UAT",
+      "U22",
+      "Ain Temouchent",
+      "Univ Ain Temouchent",
+      "univ.aintemouchent",
+      "niv. ain temouchent",
+      "nv. n tmchnt",
+      "nuiv. ain temouchent"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Univ. Ghardaia",
+    "etbCode": "C32",
+    "wilayas": [
+      "Ghardaia"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes",
+      "Energies Renouvelables (formations Professionnalisantes)",
+      "Electrotechnique",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Ghardaia",
+      "Universite Ghardaia",
+      "University Ghardaia",
+      "UG",
+      "C32",
+      "Ghardaia",
+      "Univ Ghardaia",
+      "univ.ghardaia",
+      "niv. ghardaia",
+      "nv. ghrd",
+      "nuiv. ghardaia"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Univ. Relizane",
+    "etbCode": "U23",
+    "wilayas": [
+      "Relizane"
+    ],
+    "sampleMajors": [
+      "Sciences et Technologies",
+      "Genie Civil",
+      "Genie des Procedes (formations Professionnalisantes)",
+      "Genie des Procedes",
+      "Electrotechnique",
+      "Genie Mecanique"
+    ],
+    "aliases": [
+      "Univ. Relizane",
+      "Universite Relizane",
+      "University Relizane",
+      "UR",
+      "U23",
+      "Relizane",
+      "Univ Relizane",
+      "univ.relizane",
+      "niv. relizane",
+      "nv. rlzn",
+      "nuiv. relizane"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Universite d Adrar (ecole Normale Superieure de Bechar)",
+    "etbCode": "B35",
+    "wilayas": [
+      "Bechar"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Adrar",
+      "Arabe (p.e.p) -- Pour Bacheliers Timimoun",
+      "Arabe (p.e.p) -- Pour Bacheliers Bordj Badji Mokhtar"
+    ],
+    "aliases": [
+      "Universite d Adrar (ecole Normale Superieure de Bechar)",
+      "University ersite d Adrar (ecole Normale Superieure de Bechar)",
+      "UAENSB",
+      "B35",
+      "Bechar",
+      "universitedadrar(ecolenormalesuperieuredebechar)",
+      "niversite d adrar (ecole normale superieure de bechar)",
+      "nvrst d drr (cl nrml sprr d bchr)",
+      "nuiversite d adrar (ecole normale superieure de bechar)"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Annexe Chlef (ecole Normale Superieure de Mostaganem)",
+    "etbCode": "B05",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Chlef",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tissemsilt",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Ain-defla",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Chlef",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Tissemsilt",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Chlef"
+    ],
+    "aliases": [
+      "Annexe Chlef (ecole Normale Superieure de Mostaganem)",
+      "ACENSM",
+      "B05",
+      "Mostaganem",
+      "annexechlef(ecolenormalesuperieuredemostaganem)",
+      "nnexe chlef (ecole normale superieure de mostaganem)",
+      "nnx chlf (cl nrml sprr d mstgnm)",
+      "nanexe chlef (ecole normale superieure de mostaganem)"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Ecole Normale Superieure de Laghouat",
+    "etbCode": "C42",
+    "wilayas": [
+      "Laghouat"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Laghouat",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tiaret",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Djelfa",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Laghouat",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Djelfa",
+      "Informatique (p.e.s) -- Pour Bacheliers Laghouat"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Laghouat",
+      "ENSL",
+      "C42",
+      "Laghouat",
+      "ecolenormalesuperieuredelaghouat",
+      "cole normale superieure de laghouat",
+      "cl nrml sprr d lght",
+      "ceole normale superieure de laghouat"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Universite d Oum El Bouaghi (ecole Normale Superieure de Setif)",
+    "etbCode": "B39",
+    "wilayas": [
+      "Oum El Bouaghi"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Oum-el-bouaghi",
+      "Francais (p.e.p) -- Pour Bacheliers Batna",
+      "Arabe (p.e.p) -- Pour Bacheliers Oum-el-bouaghi"
+    ],
+    "aliases": [
+      "Universite d Oum El Bouaghi (ecole Normale Superieure de Setif)",
+      "University ersite d Oum El Bouaghi (ecole Normale Superieure de Setif)",
+      "UOBENSS",
+      "B39",
+      "Oum El Bouaghi",
+      "universitedoumelbouaghi(ecolenormalesuperieuredesetif)",
+      "niversite d oum el bouaghi (ecole normale superieure de setif)",
+      "nvrst d m l bgh (cl nrml sprr d stf)",
+      "nuiversite d oum el bouaghi (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Annexe Batna 2 (ecole Normale Superieure de Setif)",
+    "etbCode": "B51",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Oum-el-bouaghi",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Batna",
+      "Informatique (p.e.s) -- Pour Bacheliers Batna",
+      "Informatique (p.e.s) -- Pour Bacheliers Tebessa",
+      "Informatique (p.e.s) -- Pour Bacheliers Setif",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Batna"
+    ],
+    "aliases": [
+      "Annexe Batna 2 (ecole Normale Superieure de Setif)",
+      "ABENSS",
+      "B51",
+      "Setif",
+      "annexebatna2(ecolenormalesuperieuredesetif)",
+      "nnexe batna 2 (ecole normale superieure de setif)",
+      "nnx btn 2 (cl nrml sprr d stf)",
+      "nanexe batna 2 (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Annexe Bejaia (ecole Normale Superieure de Setif)",
+    "etbCode": "B03",
+    "wilayas": [
+      "Bejaia"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Bejaia",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Bouira",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tizi-ouzou",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Bejaia",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Bouira",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Tizi-ouzou"
+    ],
+    "aliases": [
+      "Annexe Bejaia (ecole Normale Superieure de Setif)",
+      "ABENSS",
+      "B03",
+      "Bejaia",
+      "annexebejaia(ecolenormalesuperieuredesetif)",
+      "nnexe bejaia (ecole normale superieure de setif)",
+      "nnx bj (cl nrml sprr d stf)",
+      "nanexe bejaia (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Annexe Biskra (ecole Normale Superieure de Bou Saada)",
+    "etbCode": "B24",
+    "wilayas": [
+      "Bou Saada"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Biskra",
+      "Francais (p.e.p) -- Pour Bacheliers Ouled Djellal",
+      "Arabe (p.e.p) -- Pour Bacheliers Biskra",
+      "Arabe (p.e.p) -- Pour Bacheliers Ouled Djellal"
+    ],
+    "aliases": [
+      "Annexe Biskra (ecole Normale Superieure de Bou Saada)",
+      "ABENSBS",
+      "B24",
+      "Bou Saada",
+      "annexebiskra(ecolenormalesuperieuredebousaada)",
+      "nnexe biskra (ecole normale superieure de bou saada)",
+      "nnx bskr (cl nrml sprr d b sd)",
+      "nanexe biskra (ecole normale superieure de bou saada)"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Universite de Bechar (ecole Normale Superieure de Bechar)",
+    "etbCode": "B37",
+    "wilayas": [
+      "Bechar"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Bechar",
+      "Francais (p.e.p) -- Pour Bacheliers Tindouf",
+      "Francais (p.e.p) -- Pour Bacheliers Timimoun",
+      "Francais (p.e.p) -- Pour Bacheliers Bordj Badji Mokhtar",
+      "Francais (p.e.p) -- Pour Bacheliers Beni Abbes",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Bechar"
+    ],
+    "aliases": [
+      "Universite de Bechar (ecole Normale Superieure de Bechar)",
+      "University ersite de Bechar (ecole Normale Superieure de Bechar)",
+      "UBENSB",
+      "B37",
+      "Bechar",
+      "universitedebechar(ecolenormalesuperieuredebechar)",
+      "niversite de bechar (ecole normale superieure de bechar)",
+      "nvrst d bchr (cl nrml sprr d bchr)",
+      "nuiversite de bechar (ecole normale superieure de bechar)"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Ecole Normale Superieure de Bechar",
+    "etbCode": "U44",
+    "wilayas": [
+      "Bechar"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Bechar",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tindouf",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Timimoun",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Bordj Badji Mokhtar",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Beni Abbes",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Bechar"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Bechar",
+      "ENSB",
+      "U44",
+      "Bechar",
+      "ecolenormalesuperieuredebechar",
+      "cole normale superieure de bechar",
+      "cl nrml sprr d bchr",
+      "ceole normale superieure de bechar"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Universite de Blida 2 (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B25",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Blida",
+      "Langue Francaise (p.e.s) -- Pour Bacheliers Blida",
+      "Langue Anglaise (p.e.s) -- Pour Bacheliers Blida",
+      "Histoire Geographie (p.e.s) -- Pour Bacheliers Blida",
+      "Arabe (p.e.p) -- Pour Bacheliers Blida",
+      "Langue et Litterature Arabes (p.e.s) -- Pour Bacheliers Blida"
+    ],
+    "aliases": [
+      "Universite de Blida 2 (ecole Normale Superieure de Bouzareah)",
+      "University ersite de Blida 2 (ecole Normale Superieure de Bouzareah)",
+      "UBENSB",
+      "B25",
+      "Bouzareah",
+      "universitedeblida2(ecolenormalesuperieuredebouzareah)",
+      "niversite de blida 2 (ecole normale superieure de bouzareah)",
+      "nvrst d bld 2 (cl nrml sprr d bzrh)",
+      "nuiversite de blida 2 (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Universite de Blida 1 (ecole Normale Superieure de Kouba)",
+    "etbCode": "B46",
+    "wilayas": [
+      "Kouba"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Blida",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Blida",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Blida",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Blida",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Blida",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Blida"
+    ],
+    "aliases": [
+      "Universite de Blida 1 (ecole Normale Superieure de Kouba)",
+      "University ersite de Blida 1 (ecole Normale Superieure de Kouba)",
+      "UBENSK",
+      "B46",
+      "Kouba",
+      "universitedeblida1(ecolenormalesuperieuredekouba)",
+      "niversite de blida 1 (ecole normale superieure de kouba)",
+      "nvrst d bld 1 (cl nrml sprr d kb)",
+      "nuiversite de blida 1 (ecole normale superieure de kouba)"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Universite de Blida 2 (ecole Normale Superieure de Kouba)",
+    "etbCode": "B52",
+    "wilayas": [
+      "Kouba"
+    ],
+    "sampleMajors": [
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Adrar",
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Chlef",
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Laghouat",
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Oum-el-bouaghi",
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Batna",
+      "Langue Italienne (professeur de l Enseignement Secondaire) -- Pour Bacheliers Bejaia"
+    ],
+    "aliases": [
+      "Universite de Blida 2 (ecole Normale Superieure de Kouba)",
+      "University ersite de Blida 2 (ecole Normale Superieure de Kouba)",
+      "UBENSK",
+      "B52",
+      "Kouba",
+      "universitedeblida2(ecolenormalesuperieuredekouba)",
+      "niversite de blida 2 (ecole normale superieure de kouba)",
+      "nvrst d bld 2 (cl nrml sprr d kb)",
+      "nuiversite de blida 2 (ecole normale superieure de kouba)"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Annexe Bouira (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B04",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Bouira",
+      "Francais (p.e.p) -- Pour Bacheliers Bouira",
+      "Langue et Litterature Arabes (p.e.m) -- Pour Bacheliers Bouira",
+      "Arabe (p.e.p) -- Pour Bacheliers Bouira"
+    ],
+    "aliases": [
+      "Annexe Bouira (ecole Normale Superieure de Bouzareah)",
+      "ABENSB",
+      "B04",
+      "Bouzareah",
+      "annexebouira(ecolenormalesuperieuredebouzareah)",
+      "nnexe bouira (ecole normale superieure de bouzareah)",
+      "nnx br (cl nrml sprr d bzrh)",
+      "nanexe bouira (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Universite de Tamanrasset (ecole Normale Superieure de Laghouat)",
+    "etbCode": "B40",
+    "wilayas": [
+      "Tamanrasset"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Tamanrasset",
+      "Arabe (p.e.p) -- Pour Bacheliers In Salah",
+      "Arabe (p.e.p) -- Pour Bacheliers In Guezzam"
+    ],
+    "aliases": [
+      "Universite de Tamanrasset (ecole Normale Superieure de Laghouat)",
+      "University ersite de Tamanrasset (ecole Normale Superieure de Laghouat)",
+      "UTENSL",
+      "B40",
+      "Tamanrasset",
+      "universitedetamanrasset(ecolenormalesuperieuredelaghouat)",
+      "niversite de tamanrasset (ecole normale superieure de laghouat)",
+      "nvrst d tmnrsst (cl nrml sprr d lght)",
+      "nuiversite de tamanrasset (ecole normale superieure de laghouat)"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Annexe Tebessa (ecole Normale Superieure de Constantine)",
+    "etbCode": "B16",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tebessa",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Guelma",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Tebessa",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Tebessa",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Oum-el- Bouaghi",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Tebessa"
+    ],
+    "aliases": [
+      "Annexe Tebessa (ecole Normale Superieure de Constantine)",
+      "ATENSC",
+      "B16",
+      "Constantine",
+      "annexetebessa(ecolenormalesuperieuredeconstantine)",
+      "nnexe tebessa (ecole normale superieure de constantine)",
+      "nnx tbss (cl nrml sprr d cnstntn)",
+      "nanexe tebessa (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Annexe Tlemcen (ecole Normale Superieure d Oran)",
+    "etbCode": "B20",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tlemcen",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Naama",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tlemcen",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Ain- Temouchent",
+      "Informatique (p.e.m) -- Pour Bacheliers Adrar",
+      "Informatique (p.e.m) -- Pour Bacheliers Chlef"
+    ],
+    "aliases": [
+      "Annexe Tlemcen (ecole Normale Superieure d Oran)",
+      "ATENSO",
+      "B20",
+      "Tlemcen",
+      "annexetlemcen(ecolenormalesuperieuredoran)",
+      "nnexe tlemcen (ecole normale superieure d oran)",
+      "nnx tlmcn (cl nrml sprr d rn)",
+      "nanexe tlemcen (ecole normale superieure d oran)"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Annexe Tiaret (ecole Normale Superieure d Oran)",
+    "etbCode": "B17",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Chlef",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tiaret",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Tiaret",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Tiaret",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers El Bayadh",
+      "Francais (p.e.p) -- Pour Bacheliers Tiaret"
+    ],
+    "aliases": [
+      "Annexe Tiaret (ecole Normale Superieure d Oran)",
+      "ATENSO",
+      "B17",
+      "Tiaret",
+      "annexetiaret(ecolenormalesuperieuredoran)",
+      "nnexe tiaret (ecole normale superieure d oran)",
+      "nnx trt (cl nrml sprr d rn)",
+      "nanexe tiaret (ecole normale superieure d oran)"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Annexe Tizi Ouzou (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B19",
+    "wilayas": [
+      "Tizi Ouzou"
+    ],
+    "sampleMajors": [
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Bejaia",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Bouira",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tizi-ouzou",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Bouira",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Tizi- Ouzou",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Bejaia"
+    ],
+    "aliases": [
+      "Annexe Tizi Ouzou (ecole Normale Superieure de Bouzareah)",
+      "ATOENSB",
+      "B19",
+      "Tizi Ouzou",
+      "annexetiziouzou(ecolenormalesuperieuredebouzareah)",
+      "nnexe tizi ouzou (ecole normale superieure de bouzareah)",
+      "nnx tz z (cl nrml sprr d bzrh)",
+      "nanexe tizi ouzou (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Universite d Alger 3 (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B48",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Tamanrasset",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Tizi-ouzou",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Alger",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Illizi",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Boumerdes",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Tindouf"
+    ],
+    "aliases": [
+      "Universite d Alger 3 (ecole Normale Superieure de Bouzareah)",
+      "University ersite d Alger 3 (ecole Normale Superieure de Bouzareah)",
+      "UAENSB",
+      "B48",
+      "Bouzareah",
+      "universitedalger3(ecolenormalesuperieuredebouzareah)",
+      "niversite d alger 3 (ecole normale superieure de bouzareah)",
+      "nvrst d lgr 3 (cl nrml sprr d bzrh)",
+      "nuiversite d alger 3 (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Universite Alger 1 (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B53",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Laghouat",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Bejaia",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Blida",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Bouira",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Tamanrasset",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Tizi- Ouzou"
+    ],
+    "aliases": [
+      "Universite Alger 1 (ecole Normale Superieure de Bouzareah)",
+      "University ersite Alger 1 (ecole Normale Superieure de Bouzareah)",
+      "UAENSB",
+      "B53",
+      "Bouzareah",
+      "universitealger1(ecolenormalesuperieuredebouzareah)",
+      "niversite alger 1 (ecole normale superieure de bouzareah)",
+      "nvrst lgr 1 (cl nrml sprr d bzrh)",
+      "nuiversite alger 1 (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Ecole Normale Superieure Kouba (e.n.s)",
+    "etbCode": "C09",
+    "wilayas": [
+      "Kouba"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tamanrasset",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Alger",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Illizi",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Boumerdes",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Tipaza",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers In Salah"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure Kouba (e.n.s)",
+      "ENSKE",
+      "C09",
+      "Kouba",
+      "ecolenormalesuperieurekouba(e.n.s)",
+      "cole normale superieure kouba (e.n.s)",
+      "cl nrml sprr kb (.n.s)",
+      "ceole normale superieure kouba (e.n.s)"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Ecole Normale Superieure de Bouzareah (e.n.s)",
+    "etbCode": "C26",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Tamanrasset",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Alger",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Illizi",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Boumerdes",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers In Salah",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers In Guezzam"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Bouzareah (e.n.s)",
+      "ENSBE",
+      "C26",
+      "Bouzareah",
+      "ecolenormalesuperieuredebouzareah(e.n.s)",
+      "cole normale superieure de bouzareah (e.n.s)",
+      "cl nrml sprr d bzrh (.n.s)",
+      "ceole normale superieure de bouzareah (e.n.s)"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Annexe Djelfa (ecole Normale Superieure de Kouba)",
+    "etbCode": "B06",
+    "wilayas": [
+      "Djelfa"
+    ],
+    "sampleMajors": [
+      "Informatique (p.e.m) -- Pour Bacheliers Laghouat",
+      "Informatique (p.e.m) -- Pour Bacheliers Djelfa",
+      "Informatique (p.e.m) -- Pour Bacheliers Medea",
+      "Informatique (p.e.m) -- Pour Bacheliers Msila",
+      "Informatique (p.e.m) -- Pour Bacheliers Tissemsilt",
+      "Informatique (p.e.m) -- Pour Bacheliers Ain-defla"
+    ],
+    "aliases": [
+      "Annexe Djelfa (ecole Normale Superieure de Kouba)",
+      "ADENSK",
+      "B06",
+      "Djelfa",
+      "annexedjelfa(ecolenormalesuperieuredekouba)",
+      "nnexe djelfa (ecole normale superieure de kouba)",
+      "nnx djlf (cl nrml sprr d kb)",
+      "nanexe djelfa (ecole normale superieure de kouba)"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Annexe Jijel (ecole Normale Superieure de Constantine)",
+    "etbCode": "B09",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Jijel",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Batna",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Jijel",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Mila",
+      "Informatique (p.e.m) -- Pour Bacheliers Bejaia",
+      "Informatique (p.e.m) -- Pour Bacheliers Jijel"
+    ],
+    "aliases": [
+      "Annexe Jijel (ecole Normale Superieure de Constantine)",
+      "AJENSC",
+      "B09",
+      "Constantine",
+      "annexejijel(ecolenormalesuperieuredeconstantine)",
+      "nnexe jijel (ecole normale superieure de constantine)",
+      "nnx jjl (cl nrml sprr d cnstntn)",
+      "nanexe jijel (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Universite de Setif 2 (ecole Normale Superieure de Setif)",
+    "etbCode": "B33",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Setif",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Batna",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Bejaia",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Jijel",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Setif",
+      "Education Physique et Sportive (p.e.m) -- Pour Bacheliers Batna"
+    ],
+    "aliases": [
+      "Universite de Setif 2 (ecole Normale Superieure de Setif)",
+      "University ersite de Setif 2 (ecole Normale Superieure de Setif)",
+      "USENSS",
+      "B33",
+      "Setif",
+      "universitedesetif2(ecolenormalesuperieuredesetif)",
+      "niversite de setif 2 (ecole normale superieure de setif)",
+      "nvrst d stf 2 (cl nrml sprr d stf)",
+      "nuiversite de setif 2 (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Ecole Normale Superieure de Setif",
+    "etbCode": "E42",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Setif",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Setif",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Setif",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Setif",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Setif",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Jijel"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Setif",
+      "ENSS",
+      "E42",
+      "Setif",
+      "ecolenormalesuperieuredesetif",
+      "cole normale superieure de setif",
+      "cl nrml sprr d stf",
+      "ceole normale superieure de setif"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Ecole Normale Superieure de Saida (e.n.s)",
+    "etbCode": "U50",
+    "wilayas": [
+      "Saida"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Saida",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Mascara",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers El Bayadh",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Saida",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Mascara",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers El Bayadh"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Saida (e.n.s)",
+      "ENSSE",
+      "U50",
+      "Saida",
+      "ecolenormalesuperieuredesaida(e.n.s)",
+      "cole normale superieure de saida (e.n.s)",
+      "cl nrml sprr d sd (.n.s)",
+      "ceole normale superieure de saida (e.n.s)"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Universite de Skikda (ecole Normale Superieure de Setif)",
+    "etbCode": "B34",
+    "wilayas": [
+      "Skikda"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Skikda"
+    ],
+    "aliases": [
+      "Universite de Skikda (ecole Normale Superieure de Setif)",
+      "University ersite de Skikda (ecole Normale Superieure de Setif)",
+      "USENSS",
+      "B34",
+      "Skikda",
+      "universitedeskikda(ecolenormalesuperieuredesetif)",
+      "niversite de skikda (ecole normale superieure de setif)",
+      "nvrst d skkd (cl nrml sprr d stf)",
+      "nuiversite de skikda (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Ecole Normale Superieure d Enseignement Technique de Skikda (e.n.s.e.t)",
+    "etbCode": "E30",
+    "wilayas": [
+      "Skikda"
+    ],
+    "sampleMajors": [
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Laghouat",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Oum-el-bouaghi",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Batna",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Bejaia",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Biskra",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Blida"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure d Enseignement Technique de Skikda (e.n.s.e.t)",
+      "ENSETSE",
+      "E30",
+      "Skikda",
+      "ecolenormalesuperieuredenseignementtechniquedeskikda(e.n.s.e.t)",
+      "cole normale superieure d enseignement technique de skikda (e.n.s.e.t)",
+      "cl nrml sprr d nsgnmnt tchnq d skkd (.n.s..t)",
+      "ceole normale superieure d enseignement technique de skikda (e.n.s.e.t)"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Annexe Sidi Bel Abbes (ecole Normale Superieure de Saida)",
+    "etbCode": "B15",
+    "wilayas": [
+      "Sidi Bel Abbes"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Adrar",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Sidibel-abbes",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Adrar",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Sidibel- Abbes",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tissemsilt",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Relizane"
+    ],
+    "aliases": [
+      "Annexe Sidi Bel Abbes (ecole Normale Superieure de Saida)",
+      "ASBAENSS",
+      "B15",
+      "Sidi Bel Abbes",
+      "annexesidibelabbes(ecolenormalesuperieuredesaida)",
+      "nnexe sidi bel abbes (ecole normale superieure de saida)",
+      "nnx sd bl bbs (cl nrml sprr d sd)",
+      "nanexe sidi bel abbes (ecole normale superieure de saida)"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Annexe Annaba (ecole Normale Superieure de Constantine)",
+    "etbCode": "B01",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tebessa",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Annaba",
+      "Informatique (p.e.m) -- Pour Bacheliers Tebessa",
+      "Informatique (p.e.m) -- Pour Bacheliers Annaba",
+      "Informatique (p.e.m) -- Pour Bacheliers Eltarf",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Annaba"
+    ],
+    "aliases": [
+      "Annexe Annaba (ecole Normale Superieure de Constantine)",
+      "AAENSC",
+      "B01",
+      "Constantine",
+      "annexeannaba(ecolenormalesuperieuredeconstantine)",
+      "nnexe annaba (ecole normale superieure de constantine)",
+      "nnx nnb (cl nrml sprr d cnstntn)",
+      "nanexe annaba (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Annexe Guelma (ecole Normale Superieure de Constantine)",
+    "etbCode": "B08",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Mathematiques (p.e.m) -- Pour Bacheliers Guelma",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Eltarf",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Guelma",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Eltarf",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Guelma",
+      "Francais (p.e.p) -- Pour Bacheliers Guelma"
+    ],
+    "aliases": [
+      "Annexe Guelma (ecole Normale Superieure de Constantine)",
+      "AGENSC",
+      "B08",
+      "Constantine",
+      "annexeguelma(ecolenormalesuperieuredeconstantine)",
+      "nnexe guelma (ecole normale superieure de constantine)",
+      "nnx glm (cl nrml sprr d cnstntn)",
+      "nanexe guelma (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Universite de Constantine 2 (ecole Normale Superieure de Constantine)",
+    "etbCode": "B45",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Oum-el- Bouaghi",
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Batna",
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Bejaia",
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Biskra",
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Tebessa",
+      "Sciences Economiques (p.e.s) -- Pour Bacheliers Jijel"
+    ],
+    "aliases": [
+      "Universite de Constantine 2 (ecole Normale Superieure de Constantine)",
+      "University ersite de Constantine 2 (ecole Normale Superieure de Constantine)",
+      "UCENSC",
+      "B45",
+      "Constantine",
+      "universitedeconstantine2(ecolenormalesuperieuredeconstantine)",
+      "niversite de constantine 2 (ecole normale superieure de constantine)",
+      "nvrst d cnstntn 2 (cl nrml sprr d cnstntn)",
+      "nuiversite de constantine 2 (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Univ Emir Abdelkader des Sciences Islamiques Constantine (ecole Normale Superieure de Constantine)",
+    "etbCode": "B54",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Oum-el- Bouaghi",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Batna",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Biskra",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Tebessa",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Jijel",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Setif"
+    ],
+    "aliases": [
+      "Univ Emir Abdelkader des Sciences Islamiques Constantine (ecole Normale Superieure de Constantine)",
+      "University Emir Abdelkader des Sciences Islamiques Constantine (ecole Normale Superieure de Constantine)",
+      "UEADSICENSC",
+      "B54",
+      "Constantine",
+      "univemirabdelkaderdessciencesislamiquesconstantine(ecolenormalesuperieuredeconstantine)",
+      "niv emir abdelkader des sciences islamiques constantine (ecole normale superieure de constantine)",
+      "nv mr bdlkdr ds scncs slmqs cnstntn (cl nrml sprr d cnstntn)",
+      "nuiv emir abdelkader des sciences islamiques constantine (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Ecole Normale Superieure de Constantine (e.n.s)",
+    "etbCode": "E22",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Constantine",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Mila",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Oum-el- Bouaghi",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Constantine",
+      "Informatique (p.e.m) -- Pour Bacheliers Oum-el-bouaghi",
+      "Informatique (p.e.m) -- Pour Bacheliers Batna"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Constantine (e.n.s)",
+      "ENSCE",
+      "E22",
+      "Constantine",
+      "ecolenormalesuperieuredeconstantine(e.n.s)",
+      "cole normale superieure de constantine (e.n.s)",
+      "cl nrml sprr d cnstntn (.n.s)",
+      "ceole normale superieure de constantine (e.n.s)"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Annexe Medea (ecole Normale Superieure de Kouba)",
+    "etbCode": "B12",
+    "wilayas": [
+      "Medea"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Medea",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Medea",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Tipaza",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Ain-defla",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Medea",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Medea"
+    ],
+    "aliases": [
+      "Annexe Medea (ecole Normale Superieure de Kouba)",
+      "AMENSK",
+      "B12",
+      "Medea",
+      "annexemedea(ecolenormalesuperieuredekouba)",
+      "nnexe medea (ecole normale superieure de kouba)",
+      "nnx md (cl nrml sprr d kb)",
+      "nanexe medea (ecole normale superieure de kouba)"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Annexe de Medea (ecole Normale Superieure de Bou Saada)",
+    "etbCode": "B49",
+    "wilayas": [
+      "Bou Saada"
+    ],
+    "sampleMajors": [
+      "Informatique (p.e.s) -- Pour Bacheliers Blida",
+      "Informatique (p.e.s) -- Pour Bacheliers Bouira",
+      "Informatique (p.e.s) -- Pour Bacheliers Medea",
+      "Informatique (p.e.s) -- Pour Bacheliers Tipaza",
+      "Informatique (p.e.s) -- Pour Bacheliers Ain-defla"
+    ],
+    "aliases": [
+      "Annexe de Medea (ecole Normale Superieure de Bou Saada)",
+      "AMENSBS",
+      "B49",
+      "Bou Saada",
+      "annexedemedea(ecolenormalesuperieuredebousaada)",
+      "nnexe de medea (ecole normale superieure de bou saada)",
+      "nnx d md (cl nrml sprr d b sd)",
+      "nanexe de medea (ecole normale superieure de bou saada)"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Universite de Mostaganem (ecole Normale Superieure de Mostaganem)",
+    "etbCode": "B29",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Mostaganem",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Chlef",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Mostaganem",
+      "Education Physique et Sportive (p.e.p) -- Pour Bacheliers Adrar",
+      "Education Physique et Sportive (p.e.p) -- Pour Bacheliers Bechar",
+      "Education Physique et Sportive (p.e.p) -- Pour Bacheliers Tlemcen"
+    ],
+    "aliases": [
+      "Universite de Mostaganem (ecole Normale Superieure de Mostaganem)",
+      "University ersite de Mostaganem (ecole Normale Superieure de Mostaganem)",
+      "UMENSM",
+      "B29",
+      "Mostaganem",
+      "universitedemostaganem(ecolenormalesuperieuredemostaganem)",
+      "niversite de mostaganem (ecole normale superieure de mostaganem)",
+      "nvrst d mstgnm (cl nrml sprr d mstgnm)",
+      "nuiversite de mostaganem (ecole normale superieure de mostaganem)"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Ecole Normale Superieure de Mostaganem",
+    "etbCode": "U28",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Mostaganem",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Oran",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Mostaganem",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Mascara",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Oran",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Tissemsilt"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Mostaganem",
+      "ENSM",
+      "U28",
+      "Mostaganem",
+      "ecolenormalesuperieuredemostaganem",
+      "cole normale superieure de mostaganem",
+      "cl nrml sprr d mstgnm",
+      "ceole normale superieure de mostaganem"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Universite de M Sila (ecole Normale Superieure de Bou Saada)",
+    "etbCode": "B30",
+    "wilayas": [
+      "Bou Saada"
+    ],
+    "sampleMajors": [
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Msila",
+      "Francais (p.e.p) -- Pour Bacheliers Msila",
+      "Langue Anglaise (p.e.m) -- Pour Bacheliers Msila",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Biskra",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers Msila",
+      "Langue Anglaise (p.e.p) -- Pour Bacheliers B.b.arreridj"
+    ],
+    "aliases": [
+      "Universite de M Sila (ecole Normale Superieure de Bou Saada)",
+      "University ersite de M Sila (ecole Normale Superieure de Bou Saada)",
+      "USENSBS",
+      "B30",
+      "Bou Saada",
+      "universitedemsila(ecolenormalesuperieuredebousaada)",
+      "niversite de m sila (ecole normale superieure de bou saada)",
+      "nvrst d m sl (cl nrml sprr d b sd)",
+      "nuiversite de m sila (ecole normale superieure de bou saada)"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Ecole Normale Superieure de Bou Saada",
+    "etbCode": "E48",
+    "wilayas": [
+      "Bou Saada"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Biskra",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Msila",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Ouled Djellal",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Msila",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Msila",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Ouled Djellal"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Bou Saada",
+      "ENSBS",
+      "E48",
+      "Bou Saada",
+      "ecolenormalesuperieuredebousaada",
+      "cole normale superieure de bou saada",
+      "cl nrml sprr d b sd",
+      "ceole normale superieure de bou saada"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Annexe Mascara (ecole Normale Superieure de Saida)",
+    "etbCode": "B11",
+    "wilayas": [
+      "Mascara"
+    ],
+    "sampleMajors": [
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Adrar",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Chlef",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Bechar",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Tlemcen",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Tiaret",
+      "Technique (p.e.s) Option : Genie Civil -- Pour Bacheliers Djelfa"
+    ],
+    "aliases": [
+      "Annexe Mascara (ecole Normale Superieure de Saida)",
+      "AMENSS",
+      "B11",
+      "Mascara",
+      "annexemascara(ecolenormalesuperieuredesaida)",
+      "nnexe mascara (ecole normale superieure de saida)",
+      "nnx mscr (cl nrml sprr d sd)",
+      "nanexe mascara (ecole normale superieure de saida)"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Universite de Ouargla (ecole Normale Superieure de Ouargla)",
+    "etbCode": "B32",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Ouargla",
+      "Arabe (p.e.p) -- Pour Bacheliers Touggourt",
+      "Arabe (p.e.p) -- Pour Bacheliers El Meniaa"
+    ],
+    "aliases": [
+      "Universite de Ouargla (ecole Normale Superieure de Ouargla)",
+      "University ersite de Ouargla (ecole Normale Superieure de Ouargla)",
+      "UOENSO",
+      "B32",
+      "Ouargla",
+      "universitedeouargla(ecolenormalesuperieuredeouargla)",
+      "niversite de ouargla (ecole normale superieure de ouargla)",
+      "nvrst d rgl (cl nrml sprr d rgl)",
+      "nuiversite de ouargla (ecole normale superieure de ouargla)"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Ecole Normale Superieure de Ouargla",
+    "etbCode": "E41",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Ouargla",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Ouargla",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Ghardaia",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Touggourt",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers El Meniaa",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Ouargla"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure de Ouargla",
+      "ENSO",
+      "E41",
+      "Ouargla",
+      "ecolenormalesuperieuredeouargla",
+      "cole normale superieure de ouargla",
+      "cl nrml sprr d rgl",
+      "ceole normale superieure de ouargla"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Universite d Oran 1 (ecole Normale Superieure d Oran)",
+    "etbCode": "B31",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Adrar",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Chlef",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Bechar",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Tlemcen",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Tiaret",
+      "Sciences Islamiques (professeur de l Enseignement Secondaire) -- Pour Bacheliers Saida"
+    ],
+    "aliases": [
+      "Universite d Oran 1 (ecole Normale Superieure d Oran)",
+      "University ersite d Oran 1 (ecole Normale Superieure d Oran)",
+      "UOENSO",
+      "B31",
+      "Oran",
+      "universitedoran1(ecolenormalesuperieuredoran)",
+      "niversite d oran 1 (ecole normale superieure d oran)",
+      "nvrst d rn 1 (cl nrml sprr d rn)",
+      "nuiversite d oran 1 (ecole normale superieure d oran)"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Universite d Oran 2 (ecole Normale Superieure d Oran)",
+    "etbCode": "B44",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Mascara",
+      "Francais (p.e.p) -- Pour Bacheliers Oran",
+      "Langue Espagnole (professeur de l Enseignement Secondaire) -- Pour Bacheliers Adrar",
+      "Langue Espagnole (professeur de l Enseignement Secondaire) -- Pour Bacheliers Chlef",
+      "Langue Espagnole (professeur de l Enseignement Secondaire) -- Pour Bacheliers Laghouat",
+      "Langue Espagnole (professeur de l Enseignement Secondaire) -- Pour Bacheliers Oum-el-bouaghi"
+    ],
+    "aliases": [
+      "Universite d Oran 2 (ecole Normale Superieure d Oran)",
+      "University ersite d Oran 2 (ecole Normale Superieure d Oran)",
+      "UOENSO",
+      "B44",
+      "Oran",
+      "universitedoran2(ecolenormalesuperieuredoran)",
+      "niversite d oran 2 (ecole normale superieure d oran)",
+      "nvrst d rn 2 (cl nrml sprr d rn)",
+      "nuiversite d oran 2 (ecole normale superieure d oran)"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Ecole Normale Superieure d Oran",
+    "etbCode": "U04",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Oran",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Ain-temouchent",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Mostaganem",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Oran",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Ain- Temouchent",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Mostaganem"
+    ],
+    "aliases": [
+      "Ecole Normale Superieure d Oran",
+      "ENSO",
+      "U04",
+      "Oran",
+      "ecolenormalesuperieuredoran",
+      "cole normale superieure d oran",
+      "cl nrml sprr d rn",
+      "ceole normale superieure d oran"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Annexe Bordj Bou Arreridj (ecole Normale Superieure de Bou Saada)",
+    "etbCode": "B02",
+    "wilayas": [
+      "Bordj Bou Arreridj"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers B.b.arreridj",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Biskra",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers B.b.arreridj",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Ouled Djellal",
+      "Mathematiques (p.e.m) -- Pour Bacheliers B.b.arreridj",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Biskra"
+    ],
+    "aliases": [
+      "Annexe Bordj Bou Arreridj (ecole Normale Superieure de Bou Saada)",
+      "ABBAENSBS",
+      "B02",
+      "Bordj Bou Arreridj",
+      "annexebordjbouarreridj(ecolenormalesuperieuredebousaada)",
+      "nnexe bordj bou arreridj (ecole normale superieure de bou saada)",
+      "nnx brdj b rrrdj (cl nrml sprr d b sd)",
+      "nanexe bordj bou arreridj (ecole normale superieure de bou saada)"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Universite de Boumerdes (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B38",
+    "wilayas": [
+      "Boumerdes"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Boumerdes"
+    ],
+    "aliases": [
+      "Universite de Boumerdes (ecole Normale Superieure de Bouzareah)",
+      "University ersite de Boumerdes (ecole Normale Superieure de Bouzareah)",
+      "UBENSB",
+      "B38",
+      "Boumerdes",
+      "universitedeboumerdes(ecolenormalesuperieuredebouzareah)",
+      "niversite de boumerdes (ecole normale superieure de bouzareah)",
+      "nvrst d bmrds (cl nrml sprr d bzrh)",
+      "nuiversite de boumerdes (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Annexe El Tarf (ecole Normale Superieure de Constantine)",
+    "etbCode": "B23",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Informatique (p.e.s) -- Pour Bacheliers Skikda",
+      "Informatique (p.e.s) -- Pour Bacheliers Annaba",
+      "Informatique (p.e.s) -- Pour Bacheliers Guelma",
+      "Informatique (p.e.s) -- Pour Bacheliers Eltarf",
+      "Informatique (p.e.s) -- Pour Bacheliers Souk-ahras",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Annaba"
+    ],
+    "aliases": [
+      "Annexe El Tarf (ecole Normale Superieure de Constantine)",
+      "ATENSC",
+      "B23",
+      "Constantine",
+      "annexeeltarf(ecolenormalesuperieuredeconstantine)",
+      "nnexe el tarf (ecole normale superieure de constantine)",
+      "nnx l trf (cl nrml sprr d cnstntn)",
+      "nanexe el tarf (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Annexe Tissemsilt (ecole Normale Superieure de Mostaganem)",
+    "etbCode": "B18",
+    "wilayas": [
+      "Tissemsilt"
+    ],
+    "sampleMajors": [
+      "Langue et Litterature Arabes (p.e.m) -- Pour Bacheliers Tissemsilt",
+      "Arabe (p.e.p) -- Pour Bacheliers Tissemsilt"
+    ],
+    "aliases": [
+      "Annexe Tissemsilt (ecole Normale Superieure de Mostaganem)",
+      "ATENSM",
+      "B18",
+      "Tissemsilt",
+      "annexetissemsilt(ecolenormalesuperieuredemostaganem)",
+      "nnexe tissemsilt (ecole normale superieure de mostaganem)",
+      "nnx tssmslt (cl nrml sprr d mstgnm)",
+      "nanexe tissemsilt (ecole normale superieure de mostaganem)"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Annexe El Oued (ecole Normale Superieure de Ouargla)",
+    "etbCode": "B22",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers El Oued",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers El Mghaier",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers El Oued",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers El Mghaier",
+      "Mathematiques (p.e.m) -- Pour Bacheliers El Oued",
+      "Mathematiques (p.e.m) -- Pour Bacheliers El Mghaier"
+    ],
+    "aliases": [
+      "Annexe El Oued (ecole Normale Superieure de Ouargla)",
+      "AOENSO",
+      "B22",
+      "Ouargla",
+      "annexeeloued(ecolenormalesuperieuredeouargla)",
+      "nnexe el oued (ecole normale superieure de ouargla)",
+      "nnx l d (cl nrml sprr d rgl)",
+      "nanexe el oued (ecole normale superieure de ouargla)"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Universite de Khenchela (ecole Normale Superieure de Constantine)",
+    "etbCode": "B28",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Francais (p.e.p) -- Pour Bacheliers Khenchla",
+      "Arabe (p.e.p) -- Pour Bacheliers Khenchla"
+    ],
+    "aliases": [
+      "Universite de Khenchela (ecole Normale Superieure de Constantine)",
+      "University ersite de Khenchela (ecole Normale Superieure de Constantine)",
+      "UKENSC",
+      "B28",
+      "Constantine",
+      "universitedekhenchela(ecolenormalesuperieuredeconstantine)",
+      "niversite de khenchela (ecole normale superieure de constantine)",
+      "nvrst d khnchl (cl nrml sprr d cnstntn)",
+      "nuiversite de khenchela (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Annexe Souk Ahras (ecole Normale Superieure de Setif)",
+    "etbCode": "B21",
+    "wilayas": [
+      "Souk Ahras"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Khenchla",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Souk-ahras",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Khenchla",
+      "Sciences Physiques (p.e.s.) -- Pour Bacheliers Souk- Ahras",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Khenchla",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Souk-ahras"
+    ],
+    "aliases": [
+      "Annexe Souk Ahras (ecole Normale Superieure de Setif)",
+      "ASAENSS",
+      "B21",
+      "Souk Ahras",
+      "annexesoukahras(ecolenormalesuperieuredesetif)",
+      "nnexe souk ahras (ecole normale superieure de setif)",
+      "nnx sk hrs (cl nrml sprr d stf)",
+      "nanexe souk ahras (ecole normale superieure de setif)"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Centre Universitaire de Tipaza (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B41",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Tipaza"
+    ],
+    "aliases": [
+      "Centre Universitaire de Tipaza (ecole Normale Superieure de Bouzareah)",
+      "CUTENSB",
+      "B41",
+      "Bouzareah",
+      "centreuniversitairedetipaza(ecolenormalesuperieuredebouzareah)",
+      "cntre universitaire de tipaza (ecole normale superieure de bouzareah)",
+      "cntr nvrstr d tpz (cl nrml sprr d bzrh)",
+      "ecntre universitaire de tipaza (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Annexe Mila (ecole Normale Superieure de Constantine)",
+    "etbCode": "B13",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Mathematiques (p.e.m) -- Pour Bacheliers Oum-el- Bouaghi",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Jijel",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Mila",
+      "Langue et Litterature Arabes (p.e.m) -- Pour Bacheliers Batna",
+      "Langue et Litterature Arabes (p.e.m) -- Pour Bacheliers Jijel",
+      "Langue et Litterature Arabes (p.e.m) -- Pour Bacheliers Mila"
+    ],
+    "aliases": [
+      "Annexe Mila (ecole Normale Superieure de Constantine)",
+      "AMENSC",
+      "B13",
+      "Constantine",
+      "annexemila(ecolenormalesuperieuredeconstantine)",
+      "nnexe mila (ecole normale superieure de constantine)",
+      "nnx ml (cl nrml sprr d cnstntn)",
+      "nanexe mila (ecole normale superieure de constantine)"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Annexe Khemis Miliana (ecole Normale Superieure de Bouzareah)",
+    "etbCode": "B10",
+    "wilayas": [
+      "Bouzareah"
+    ],
+    "sampleMajors": [
+      "Mathematiques (p.e.m) -- Pour Bacheliers Ain-defla",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Tipaza",
+      "Mathematiques (p.e.s.) -- Pour Bacheliers Ain-defla",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Blida",
+      "Langue Francaise (p.e.m) -- Pour Bacheliers Ain-defla",
+      "Francais (p.e.p) -- Pour Bacheliers Tipaza"
+    ],
+    "aliases": [
+      "Annexe Khemis Miliana (ecole Normale Superieure de Bouzareah)",
+      "AKMENSB",
+      "B10",
+      "Bouzareah",
+      "annexekhemismiliana(ecolenormalesuperieuredebouzareah)",
+      "nnexe khemis miliana (ecole normale superieure de bouzareah)",
+      "nnx khms mln (cl nrml sprr d bzrh)",
+      "nanexe khemis miliana (ecole normale superieure de bouzareah)"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Centre Universitaire de Naama (ecole Normale Superieure de Saida)",
+    "etbCode": "B42",
+    "wilayas": [
+      "Saida"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Naama"
+    ],
+    "aliases": [
+      "Centre Universitaire de Naama (ecole Normale Superieure de Saida)",
+      "CUNENSS",
+      "B42",
+      "Saida",
+      "centreuniversitairedenaama(ecolenormalesuperieuredesaida)",
+      "cntre universitaire de naama (ecole normale superieure de saida)",
+      "cntr nvrstr d nm (cl nrml sprr d sd)",
+      "ecntre universitaire de naama (ecole normale superieure de saida)"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Universite d Ain Temouchent (ecole Normale Superieure d Oran)",
+    "etbCode": "B36",
+    "wilayas": [
+      "Ain Temouchent"
+    ],
+    "sampleMajors": [
+      "Arabe (p.e.p) -- Pour Bacheliers Ain-temouchent"
+    ],
+    "aliases": [
+      "Universite d Ain Temouchent (ecole Normale Superieure d Oran)",
+      "University ersite d Ain Temouchent (ecole Normale Superieure d Oran)",
+      "UATENSO",
+      "B36",
+      "Ain Temouchent",
+      "universitedaintemouchent(ecolenormalesuperieuredoran)",
+      "niversite d ain temouchent (ecole normale superieure d oran)",
+      "nvrst d n tmchnt (cl nrml sprr d rn)",
+      "nuiversite d ain temouchent (ecole normale superieure d oran)"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Annexe Ghardaia (ecole Normale Superieure de Laghouat)",
+    "etbCode": "B07",
+    "wilayas": [
+      "Laghouat"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Ghardaia",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Touggourt",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers El Meniaa",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Ghardaia",
+      "Mathematiques (p.e.m) -- Pour Bacheliers El Meniaa",
+      "Sciences Naturelles (p.e.m) -- Pour Bacheliers Ghardaia"
+    ],
+    "aliases": [
+      "Annexe Ghardaia (ecole Normale Superieure de Laghouat)",
+      "AGENSL",
+      "B07",
+      "Laghouat",
+      "annexeghardaia(ecolenormalesuperieuredelaghouat)",
+      "nnexe ghardaia (ecole normale superieure de laghouat)",
+      "nnx ghrd (cl nrml sprr d lght)",
+      "nanexe ghardaia (ecole normale superieure de laghouat)"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Annexe Relizane (ecole Normale Superieure de Mostaganem)",
+    "etbCode": "B14",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Mostaganem",
+      "Sciences Physique et Technologie (p.e.m) -- Pour Bacheliers Relizane",
+      "Mathematiques (p.e.m) -- Pour Bacheliers Relizane",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Tissemsilt",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Naama",
+      "Sciences Naturelles (p.e.s) -- Pour Bacheliers Ain- Temouchent"
+    ],
+    "aliases": [
+      "Annexe Relizane (ecole Normale Superieure de Mostaganem)",
+      "ARENSM",
+      "B14",
+      "Mostaganem",
+      "annexerelizane(ecolenormalesuperieuredemostaganem)",
+      "nnexe relizane (ecole normale superieure de mostaganem)",
+      "nnx rlzn (cl nrml sprr d mstgnm)",
+      "nanexe relizane (ecole normale superieure de mostaganem)"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Annexe Relizane (ecole Normale Superieure de Laghouat)",
+    "etbCode": "B50",
+    "wilayas": [
+      "Relizane"
+    ],
+    "sampleMajors": [
+      "Informatique (p.e.s) -- Pour Bacheliers Chlef",
+      "Informatique (p.e.s) -- Pour Bacheliers Tlemcen",
+      "Informatique (p.e.s) -- Pour Bacheliers Saida",
+      "Informatique (p.e.s) -- Pour Bacheliers Sidibel-abbes",
+      "Informatique (p.e.s) -- Pour Bacheliers Mostaganem",
+      "Informatique (p.e.s) -- Pour Bacheliers Oran"
+    ],
+    "aliases": [
+      "Annexe Relizane (ecole Normale Superieure de Laghouat)",
+      "ARENSL",
+      "B50",
+      "Relizane",
+      "annexerelizane(ecolenormalesuperieuredelaghouat)",
+      "nnexe relizane (ecole normale superieure de laghouat)",
+      "nnx rlzn (cl nrml sprr d lght)",
+      "nanexe relizane (ecole normale superieure de laghouat)"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Centre de Formation Continue Adrar",
+    "etbCode": "Z15",
+    "wilayas": [
+      "Adrar"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Adrar",
+      "CFCA",
+      "Z15",
+      "Adrar",
+      "centredeformationcontinueadrar",
+      "cntre de formation continue adrar",
+      "cntr d frmtn cntn drr",
+      "ecntre de formation continue adrar"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Centre de Formation Continue Chlef",
+    "etbCode": "Z46",
+    "wilayas": [
+      "Chlef"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Chlef",
+      "CFCC",
+      "Z46",
+      "Chlef",
+      "centredeformationcontinuechlef",
+      "cntre de formation continue chlef",
+      "cntr d frmtn cntn chlf",
+      "ecntre de formation continue chlef"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Centre de Formation Continue Laghouat",
+    "etbCode": "Z42",
+    "wilayas": [
+      "Laghouat"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Laghouat",
+      "CFCL",
+      "Z42",
+      "Laghouat",
+      "centredeformationcontinuelaghouat",
+      "cntre de formation continue laghouat",
+      "cntr d frmtn cntn lght",
+      "ecntre de formation continue laghouat"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Centre de Formation Continue Oum El Bouaghi",
+    "etbCode": "Z05",
+    "wilayas": [
+      "Oum El Bouaghi"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Oum El Bouaghi",
+      "CFCOB",
+      "Z05",
+      "Oum El Bouaghi",
+      "centredeformationcontinueoumelbouaghi",
+      "cntre de formation continue oum el bouaghi",
+      "cntr d frmtn cntn m l bgh",
+      "ecntre de formation continue oum el bouaghi"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Centre de Formation Continue Batna",
+    "etbCode": "Z06",
+    "wilayas": [
+      "Batna"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Batna",
+      "CFCB",
+      "Z06",
+      "Batna",
+      "centredeformationcontinuebatna",
+      "cntre de formation continue batna",
+      "cntr d frmtn cntn btn",
+      "ecntre de formation continue batna"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Centre de Formation Continue Bejaia",
+    "etbCode": "Z01",
+    "wilayas": [
+      "Bejaia"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Bejaia",
+      "CFCB",
+      "Z01",
+      "Bejaia",
+      "centredeformationcontinuebejaia",
+      "cntre de formation continue bejaia",
+      "cntr d frmtn cntn bj",
+      "ecntre de formation continue bejaia"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Centre de Formation Continue Biskra",
+    "etbCode": "Z07",
+    "wilayas": [
+      "Biskra"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Biskra",
+      "CFCB",
+      "Z07",
+      "Biskra",
+      "centredeformationcontinuebiskra",
+      "cntre de formation continue biskra",
+      "cntr d frmtn cntn bskr",
+      "ecntre de formation continue biskra"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Centre de Formation Continue Bechar",
+    "etbCode": "Z16",
+    "wilayas": [
+      "Bechar"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Bechar",
+      "CFCB",
+      "Z16",
+      "Bechar",
+      "centredeformationcontinuebechar",
+      "cntre de formation continue bechar",
+      "cntr d frmtn cntn bchr",
+      "ecntre de formation continue bechar"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Centre de Formation Continue Blida",
+    "etbCode": "Z02",
+    "wilayas": [
+      "Blida"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Blida",
+      "CFCB",
+      "Z02",
+      "Blida",
+      "centredeformationcontinueblida",
+      "cntre de formation continue blida",
+      "cntr d frmtn cntn bld",
+      "ecntre de formation continue blida"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Centre de Formation Continue Bouira",
+    "etbCode": "Z35",
+    "wilayas": [
+      "Bouira"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Bouira",
+      "CFCB",
+      "Z35",
+      "Bouira",
+      "centredeformationcontinuebouira",
+      "cntre de formation continue bouira",
+      "cntr d frmtn cntn br",
+      "ecntre de formation continue bouira"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Centre de Formation Continue Tamanghasset",
+    "etbCode": "Z04",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tamanghasset",
+      "CFCT",
+      "Z04",
+      "—",
+      "centredeformationcontinuetamanghasset",
+      "cntre de formation continue tamanghasset",
+      "cntr d frmtn cntn tmnghsst",
+      "ecntre de formation continue tamanghasset"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Centre de Formation Continue Tebessa",
+    "etbCode": "Z08",
+    "wilayas": [
+      "Tebessa"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tebessa",
+      "CFCT",
+      "Z08",
+      "Tebessa",
+      "centredeformationcontinuetebessa",
+      "cntre de formation continue tebessa",
+      "cntr d frmtn cntn tbss",
+      "ecntre de formation continue tebessa"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Centre de Formation Continue Tlemcen",
+    "etbCode": "Z17",
+    "wilayas": [
+      "Tlemcen"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tlemcen",
+      "CFCT",
+      "Z17",
+      "Tlemcen",
+      "centredeformationcontinuetlemcen",
+      "cntre de formation continue tlemcen",
+      "cntr d frmtn cntn tlmcn",
+      "ecntre de formation continue tlemcen"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Centre de Formation Continue Tiaret",
+    "etbCode": "Z18",
+    "wilayas": [
+      "Tiaret"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tiaret",
+      "CFCT",
+      "Z18",
+      "Tiaret",
+      "centredeformationcontinuetiaret",
+      "cntre de formation continue tiaret",
+      "cntr d frmtn cntn trt",
+      "ecntre de formation continue tiaret"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Centre de Formation Continue Tizi Ouzou",
+    "etbCode": "Z39",
+    "wilayas": [
+      "Tizi Ouzou"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tizi Ouzou",
+      "CFCTO",
+      "Z39",
+      "Tizi Ouzou",
+      "centredeformationcontinuetiziouzou",
+      "cntre de formation continue tizi ouzou",
+      "cntr d frmtn cntn tz z",
+      "ecntre de formation continue tizi ouzou"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Centre de Formation Continue d Alger Est (universite Centrale)",
+    "etbCode": "Z54",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue d Alger Est (universite Centrale)",
+      "CFCAEUC",
+      "Z54",
+      "Alger",
+      "centredeformationcontinuedalgerest(universitecentrale)",
+      "cntre de formation continue d alger est (universite centrale)",
+      "cntr d frmtn cntn d lgr st (nvrst cntrl)",
+      "ecntre de formation continue d alger est (universite centrale)"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Centre de Formation Continue d Alger Nord (bouzareah)",
+    "etbCode": "Z53",
+    "wilayas": [
+      "Alger"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue d Alger Nord (bouzareah)",
+      "CFCANB",
+      "Z53",
+      "Alger",
+      "centredeformationcontinuedalgernord(bouzareah)",
+      "cntre de formation continue d alger nord (bouzareah)",
+      "cntr d frmtn cntn d lgr nrd (bzrh)",
+      "ecntre de formation continue d alger nord (bouzareah)"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Centre de Formation Continue d El Kharrouba",
+    "etbCode": "Z55",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue d El Kharrouba",
+      "CFCK",
+      "Z55",
+      "—",
+      "centredeformationcontinuedelkharrouba",
+      "cntre de formation continue d el kharrouba",
+      "cntr d frmtn cntn d l khrrb",
+      "ecntre de formation continue d el kharrouba"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Centre de Formation Continue de Bab Ezzouar",
+    "etbCode": "Z51",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue de Bab Ezzouar",
+      "CFCBE",
+      "Z51",
+      "—",
+      "centredeformationcontinuedebabezzouar",
+      "cntre de formation continue de bab ezzouar",
+      "cntr d frmtn cntn d bb zzr",
+      "ecntre de formation continue de bab ezzouar"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Centre de Formation Continue de Ben Aknoun",
+    "etbCode": "Z52",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue de Ben Aknoun",
+      "CFCBA",
+      "Z52",
+      "—",
+      "centredeformationcontinuedebenaknoun",
+      "cntre de formation continue de ben aknoun",
+      "cntr d frmtn cntn d bn knn",
+      "ecntre de formation continue de ben aknoun"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Centre de Formation Continue Djelfa",
+    "etbCode": "Z03",
+    "wilayas": [
+      "Djelfa"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Djelfa",
+      "CFCD",
+      "Z03",
+      "Djelfa",
+      "centredeformationcontinuedjelfa",
+      "cntre de formation continue djelfa",
+      "cntr d frmtn cntn djlf",
+      "ecntre de formation continue djelfa"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Centre de Formation Continue Jijel",
+    "etbCode": "Z09",
+    "wilayas": [
+      "Jijel"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Jijel",
+      "CFCJ",
+      "Z09",
+      "Jijel",
+      "centredeformationcontinuejijel",
+      "cntre de formation continue jijel",
+      "cntr d frmtn cntn jjl",
+      "ecntre de formation continue jijel"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Centre de Formation Continue Setif",
+    "etbCode": "Z31",
+    "wilayas": [
+      "Setif"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Setif",
+      "CFCS",
+      "Z31",
+      "Setif",
+      "centredeformationcontinuesetif",
+      "cntre de formation continue setif",
+      "cntr d frmtn cntn stf",
+      "ecntre de formation continue setif"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Centre de Formation Continue Saida",
+    "etbCode": "Z20",
+    "wilayas": [
+      "Saida"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Saida",
+      "CFCS",
+      "Z20",
+      "Saida",
+      "centredeformationcontinuesaida",
+      "cntre de formation continue saida",
+      "cntr d frmtn cntn sd",
+      "ecntre de formation continue saida"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Centre de Formation Continue Skikda",
+    "etbCode": "Z43",
+    "wilayas": [
+      "Skikda"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Skikda",
+      "CFCS",
+      "Z43",
+      "Skikda",
+      "centredeformationcontinueskikda",
+      "cntre de formation continue skikda",
+      "cntr d frmtn cntn skkd",
+      "ecntre de formation continue skikda"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Centre de Formation Continue Sidi Bel Abbes",
+    "etbCode": "Z27",
+    "wilayas": [
+      "Sidi Bel Abbes"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Sidi Bel Abbes",
+      "CFCSBA",
+      "Z27",
+      "Sidi Bel Abbes",
+      "centredeformationcontinuesidibelabbes",
+      "cntre de formation continue sidi bel abbes",
+      "cntr d frmtn cntn sd bl bbs",
+      "ecntre de formation continue sidi bel abbes"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Centre de Formation Continue Annaba",
+    "etbCode": "Z10",
+    "wilayas": [
+      "Annaba"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Annaba",
+      "CFCA",
+      "Z10",
+      "Annaba",
+      "centredeformationcontinueannaba",
+      "cntre de formation continue annaba",
+      "cntr d frmtn cntn nnb",
+      "ecntre de formation continue annaba"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Centre de Formation Continue Guelma",
+    "etbCode": "Z30",
+    "wilayas": [
+      "Guelma"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Guelma",
+      "CFCG",
+      "Z30",
+      "Guelma",
+      "centredeformationcontinueguelma",
+      "cntre de formation continue guelma",
+      "cntr d frmtn cntn glm",
+      "ecntre de formation continue guelma"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Centre de Formation Continue Constantine",
+    "etbCode": "Z38",
+    "wilayas": [
+      "Constantine"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Constantine",
+      "CFCC",
+      "Z38",
+      "Constantine",
+      "centredeformationcontinueconstantine",
+      "cntre de formation continue constantine",
+      "cntr d frmtn cntn cnstntn",
+      "ecntre de formation continue constantine"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Centre de Formation Continue Medea",
+    "etbCode": "Z37",
+    "wilayas": [
+      "Medea"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Medea",
+      "CFCM",
+      "Z37",
+      "Medea",
+      "centredeformationcontinuemedea",
+      "cntre de formation continue medea",
+      "cntr d frmtn cntn md",
+      "ecntre de formation continue medea"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Centre de Formation Continue Mostaganem",
+    "etbCode": "Z21",
+    "wilayas": [
+      "Mostaganem"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Mostaganem",
+      "CFCM",
+      "Z21",
+      "Mostaganem",
+      "centredeformationcontinuemostaganem",
+      "cntre de formation continue mostaganem",
+      "cntr d frmtn cntn mstgnm",
+      "ecntre de formation continue mostaganem"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Centre de Formation Continue Msila",
+    "etbCode": "Z44",
+    "wilayas": [
+      "Msila"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Msila",
+      "CFCM",
+      "Z44",
+      "Msila",
+      "centredeformationcontinuemsila",
+      "cntre de formation continue msila",
+      "cntr d frmtn cntn msl",
+      "ecntre de formation continue msila"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Centre de Formation Continue Mascara",
+    "etbCode": "Z22",
+    "wilayas": [
+      "Mascara"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Mascara",
+      "CFCM",
+      "Z22",
+      "Mascara",
+      "centredeformationcontinuemascara",
+      "cntre de formation continue mascara",
+      "cntr d frmtn cntn mscr",
+      "ecntre de formation continue mascara"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Centre de Formation Continue Ouargla",
+    "etbCode": "Z32",
+    "wilayas": [
+      "Ouargla"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Ouargla",
+      "CFCO",
+      "Z32",
+      "Ouargla",
+      "centredeformationcontinueouargla",
+      "cntre de formation continue ouargla",
+      "cntr d frmtn cntn rgl",
+      "ecntre de formation continue ouargla"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Centre de Formation Continue Oran",
+    "etbCode": "Z23",
+    "wilayas": [
+      "Oran"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Oran",
+      "CFCO",
+      "Z23",
+      "Oran",
+      "centredeformationcontinueoran",
+      "cntre de formation continue oran",
+      "cntr d frmtn cntn rn",
+      "ecntre de formation continue oran"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Centre de Formation Continue Elbayadh",
+    "etbCode": "Z29",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Elbayadh",
+      "CFCE",
+      "Z29",
+      "—",
+      "centredeformationcontinueelbayadh",
+      "cntre de formation continue elbayadh",
+      "cntr d frmtn cntn lbdh",
+      "ecntre de formation continue elbayadh"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Centre de Formation Continue Illizi",
+    "etbCode": "Z28",
+    "wilayas": [
+      "Illizi"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Illizi",
+      "CFCI",
+      "Z28",
+      "Illizi",
+      "centredeformationcontinueillizi",
+      "cntre de formation continue illizi",
+      "cntr d frmtn cntn llz",
+      "ecntre de formation continue illizi"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Centre de Formation Continue Bord Bou Arreridj",
+    "etbCode": "Z47",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Bord Bou Arreridj",
+      "CFCBBA",
+      "Z47",
+      "—",
+      "centredeformationcontinuebordbouarreridj",
+      "cntre de formation continue bord bou arreridj",
+      "cntr d frmtn cntn brd b rrrdj",
+      "ecntre de formation continue bord bou arreridj"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Centre de Formation Continue Boumerdes",
+    "etbCode": "Z40",
+    "wilayas": [
+      "Boumerdes"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Boumerdes",
+      "CFCB",
+      "Z40",
+      "Boumerdes",
+      "centredeformationcontinueboumerdes",
+      "cntre de formation continue boumerdes",
+      "cntr d frmtn cntn bmrds",
+      "ecntre de formation continue boumerdes"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Centre de Formation Continue Eltarf",
+    "etbCode": "Z45",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Eltarf",
+      "CFCE",
+      "Z45",
+      "—",
+      "centredeformationcontinueeltarf",
+      "cntre de formation continue eltarf",
+      "cntr d frmtn cntn ltrf",
+      "ecntre de formation continue eltarf"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Centre de Formation Continue Tindouf",
+    "etbCode": "Z24",
+    "wilayas": [
+      "Tindouf"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tindouf",
+      "CFCT",
+      "Z24",
+      "Tindouf",
+      "centredeformationcontinuetindouf",
+      "cntre de formation continue tindouf",
+      "cntr d frmtn cntn tndf",
+      "ecntre de formation continue tindouf"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Centre de Formation Continue Tissemsilt",
+    "etbCode": "Z19",
+    "wilayas": [
+      "Tissemsilt"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tissemsilt",
+      "CFCT",
+      "Z19",
+      "Tissemsilt",
+      "centredeformationcontinuetissemsilt",
+      "cntre de formation continue tissemsilt",
+      "cntr d frmtn cntn tssmslt",
+      "ecntre de formation continue tissemsilt"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Centre de Formation Continue Eloued",
+    "etbCode": "Z11",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Eloued",
+      "CFCE",
+      "Z11",
+      "—",
+      "centredeformationcontinueeloued",
+      "cntre de formation continue eloued",
+      "cntr d frmtn cntn ld",
+      "ecntre de formation continue eloued"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Centre de Formation Continue Khenchela",
+    "etbCode": "Z12",
+    "wilayas": [
+      "Khenchela"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Khenchela",
+      "CFCK",
+      "Z12",
+      "Khenchela",
+      "centredeformationcontinuekhenchela",
+      "cntre de formation continue khenchela",
+      "cntr d frmtn cntn khnchl",
+      "ecntre de formation continue khenchela"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Centre de Formation Continue Souk Ahras",
+    "etbCode": "Z13",
+    "wilayas": [
+      "Souk Ahras"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Souk Ahras",
+      "CFCSA",
+      "Z13",
+      "Souk Ahras",
+      "centredeformationcontinuesoukahras",
+      "cntre de formation continue souk ahras",
+      "cntr d frmtn cntn sk hrs",
+      "ecntre de formation continue souk ahras"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Centre de Formation Continue Tipaza",
+    "etbCode": "Z49",
+    "wilayas": [
+      "Tipaza"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Tipaza",
+      "CFCT",
+      "Z49",
+      "Tipaza",
+      "centredeformationcontinuetipaza",
+      "cntre de formation continue tipaza",
+      "cntr d frmtn cntn tpz",
+      "ecntre de formation continue tipaza"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Centre de Formation Continue Mila",
+    "etbCode": "Z14",
+    "wilayas": [
+      "Mila"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Mila",
+      "CFCM",
+      "Z14",
+      "Mila",
+      "centredeformationcontinuemila",
+      "cntre de formation continue mila",
+      "cntr d frmtn cntn ml",
+      "ecntre de formation continue mila"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Centre de Formation Continue Ain Defla",
+    "etbCode": "Z50",
+    "wilayas": [
+      "Ain Defla"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Ain Defla",
+      "CFCAD",
+      "Z50",
+      "Ain Defla",
+      "centredeformationcontinueaindefla",
+      "cntre de formation continue ain defla",
+      "cntr d frmtn cntn n dfl",
+      "ecntre de formation continue ain defla"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Centre de Formation Continue Khemis Miliana",
+    "etbCode": "Z36",
+    "wilayas": [
+      "—"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Khemis Miliana",
+      "CFCKM",
+      "Z36",
+      "—",
+      "centredeformationcontinuekhemismiliana",
+      "cntre de formation continue khemis miliana",
+      "cntr d frmtn cntn khms mln",
+      "ecntre de formation continue khemis miliana"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Centre de Formation Continue Naama",
+    "etbCode": "Z25",
+    "wilayas": [
+      "Naama"
+    ],
+    "sampleMajors": [
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Naama",
+      "CFCN",
+      "Z25",
+      "Naama",
+      "centredeformationcontinuenaama",
+      "cntre de formation continue naama",
+      "cntr d frmtn cntn nm",
+      "ecntre de formation continue naama"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Centre de Formation Continue Ain Temouchent",
+    "etbCode": "Z33",
+    "wilayas": [
+      "Ain Temouchent"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Ain Temouchent",
+      "CFCAT",
+      "Z33",
+      "Ain Temouchent",
+      "centredeformationcontinueaintemouchent",
+      "cntre de formation continue ain temouchent",
+      "cntr d frmtn cntn n tmchnt",
+      "ecntre de formation continue ain temouchent"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Centre de Formation Continue Ghardaia",
+    "etbCode": "Z41",
+    "wilayas": [
+      "Ghardaia"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Ghardaia",
+      "CFCG",
+      "Z41",
+      "Ghardaia",
+      "centredeformationcontinueghardaia",
+      "cntre de formation continue ghardaia",
+      "cntr d frmtn cntn ghrd",
+      "ecntre de formation continue ghardaia"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Centre de Formation Continue Relizane",
+    "etbCode": "Z26",
+    "wilayas": [
+      "Relizane"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Relizane",
+      "CFCR",
+      "Z26",
+      "Relizane",
+      "centredeformationcontinuerelizane",
+      "cntre de formation continue relizane",
+      "cntr d frmtn cntn rlzn",
+      "ecntre de formation continue relizane"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Centre de Formation Continue Touggourt",
+    "etbCode": "Z48",
+    "wilayas": [
+      "Touggourt"
+    ],
+    "sampleMajors": [
+      "Sciences Economiques de Gestion et Sciences Commerciales (formation Continue)",
+      "Droit (formation Continue)",
+      "Anglais Technique (formation Continue)",
+      "Sciences Humaines (formation Continue)"
+    ],
+    "aliases": [
+      "Centre de Formation Continue Touggourt",
+      "CFCT",
+      "Z48",
+      "Touggourt",
+      "centredeformationcontinuetouggourt",
+      "cntre de formation continue touggourt",
+      "cntr d frmtn cntn tggrt",
+      "ecntre de formation continue touggourt"
+    ]
+  }
+]
