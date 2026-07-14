@@ -96,4 +96,16 @@ export type TranslationTree = {
   common: {
     close: string;
   };
+  developer: {
+    title: string;
+    description: string;
+    name: string;
+    role: string;
+    portfolio: string;
+    github: string;
+    linkedin: string;
+    instagram: string;
+    email: string;
+    copyright: string;
+  };
 };

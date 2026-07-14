@@ -98,4 +98,16 @@ export const en: TranslationTree = {
   common: {
     close: "Close",
   },
+  developer: {
+    title: "Developer",
+    description: "Takhassoussi was developed by Noureddine Bouderbala to simplify the search for Algerian university programs through a modern, fast, and intuitive experience.",
+    name: "Noureddine Bouderbala",
+    role: "Software Engineer \u00B7 Full-Stack Developer \u00B7 AI Engineering Student",
+    portfolio: "Portfolio",
+    github: "GitHub",
+    linkedin: "LinkedIn",
+    instagram: "Instagram",
+    email: "Email",
+    copyright: "\u00A9 2026 All rights reserved \u2014 Developed by Noureddine Bouderbala.",
+  },
 };

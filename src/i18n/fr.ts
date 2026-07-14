@@ -98,4 +98,16 @@ export const fr: TranslationTree = {
   common: {
     close: "Fermer",
   },
+  developer: {
+    title: "Développeur",
+    description: "Takhassoussi a été développé par Noureddine Bouderbala afin de simplifier la recherche des spécialités universitaires en Algérie grâce à une expérience moderne, rapide et intuitive.",
+    name: "Noureddine Bouderbala",
+    role: "Ingénieur logiciel \u00B7 Développeur Full-Stack \u00B7 Étudiant en Intelligence Artificielle",
+    portfolio: "Portfolio",
+    github: "GitHub",
+    linkedin: "LinkedIn",
+    instagram: "Instagram",
+    email: "Email",
+    copyright: "\u00A9 2026 Tous droits réservés \u2014 Développé par Noureddine Bouderbala.",
+  },
 };

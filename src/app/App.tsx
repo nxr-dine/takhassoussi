@@ -10,6 +10,7 @@ import { ProgramCard } from "./components/ProgramCard";
 import { FilterPanel } from "./components/FilterPanel";
 import { EmptyState } from "./components/EmptyState";
 import { DetailDrawer } from "./components/DetailDrawer";
+import { DeveloperSection } from "./components/DeveloperSection";
 import { Button } from "./components/ui/button";
 import { SheetContent, SheetHeader, SheetTitle } from "./components/ui/sheet";
 import {
@@ -131,42 +132,46 @@ export default function App() {
 
       {!searching ? (
         /* ---------- HOME ---------- */
-        <main className="mx-auto flex max-w-3xl flex-col items-center px-4 pb-24 pt-16 sm:pt-28">
-          <img src="/logo.png" alt={t(lang, "app.name")} className="mb-6 h-16 w-16 object-contain" />
-          <h1 className="text-center text-foreground" style={{ fontSize: "2rem", lineHeight: 1.2 }}>
-            {t(lang, "home.title")}
-          </h1>
-          <p className="mt-3 max-w-xl text-center text-muted-foreground">
-            {t(lang, "home.subtitle", { count: TOTAL })}
-          </p>
+        <>
+          <main className="mx-auto flex max-w-3xl flex-col items-center px-4 pb-24 pt-16 sm:pt-28">
+            <img src="/logo.png" alt={t(lang, "app.name")} className="mb-6 h-16 w-16 object-contain" />
+            <h1 className="text-center text-foreground" style={{ fontSize: "2rem", lineHeight: 1.2 }}>
+              {t(lang, "home.title")}
+            </h1>
+            <p className="mt-3 max-w-xl text-center text-muted-foreground">
+              {t(lang, "home.subtitle", { count: TOTAL })}
+            </p>
 
-          <div className="mt-8 w-full">
-            <SearchBar
-              lang={lang}
-              value={query}
-              onChange={setQuery}
-              onSubmit={runSearch}
-              autoFocus
-              size="hero"
-            />
-          </div>
+            <div className="mt-8 w-full">
+              <SearchBar
+                lang={lang}
+                value={query}
+                onChange={setQuery}
+                onSubmit={runSearch}
+                autoFocus
+                size="hero"
+              />
+            </div>
 
-          <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
-            <span className="text-sm text-muted-foreground">{t(lang, "search.examplesLabel")}</span>
-            {translations[lang].search.examples.map((e) => (
-              <button
-                key={e}
-                onClick={() => {
-                  setQuery(e);
-                  runSearch(e);
-                }}
-                className="rounded-full border border-border bg-card px-3 py-1 text-sm text-foreground transition-colors hover:border-primary/40 hover:bg-accent"
-              >
-                {e}
-              </button>
-            ))}
-          </div>
-        </main>
+            <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
+              <span className="text-sm text-muted-foreground">{t(lang, "search.examplesLabel")}</span>
+              {translations[lang].search.examples.map((e) => (
+                <button
+                  key={e}
+                  onClick={() => {
+                    setQuery(e);
+                    runSearch(e);
+                  }}
+                  className="rounded-full border border-border bg-card px-3 py-1 text-sm text-foreground transition-colors hover:border-primary/40 hover:bg-accent"
+                >
+                  {e}
+                </button>
+              ))}
+            </div>
+          </main>
+
+          <DeveloperSection lang={lang} />
+        </>
       ) : (
         /* ---------- RESULTS ---------- */
         <>
