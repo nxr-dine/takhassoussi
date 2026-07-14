@@ -11,11 +11,11 @@ interface Props {
 export function EmptyState({ lang, mode, suggestion, onSuggestion }: Props) {
   const start = mode === "start";
   return (
-    <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 px-6 py-20 text-center">
-      <span className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-muted text-muted-foreground">
-        {start ? <Search className="h-7 w-7" /> : <SearchX className="h-7 w-7" />}
+    <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-border bg-card/50 px-4 py-14 text-center sm:px-6 sm:py-20">
+      <span className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground sm:h-16 sm:w-16">
+        {start ? <Search className="h-5 w-5 sm:h-7 sm:w-7" /> : <SearchX className="h-5 w-5 sm:h-7 sm:w-7" />}
       </span>
-      <h3 className="text-foreground">
+      <h3 className="text-base text-foreground sm:text-lg">
         {t(lang, start ? "emptyState.searchTitle" : "emptyState.noResultsTitle")}
       </h3>
       <p className="mt-2 max-w-sm text-muted-foreground">

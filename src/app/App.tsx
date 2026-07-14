@@ -176,7 +176,7 @@ export default function App() {
         /* ---------- RESULTS ---------- */
         <>
           <div className="sticky top-16 z-20 border-b border-border bg-background/80 backdrop-blur-md">
-            <div className="mx-auto max-w-5xl px-4 py-3">
+            <div className="mx-auto max-w-5xl px-3 py-2.5 sm:px-4 sm:py-3">
               <SearchBar
                 lang={lang}
                 value={query}
@@ -187,7 +187,7 @@ export default function App() {
             </div>
           </div>
 
-          <main className="mx-auto max-w-5xl px-4 py-6">
+          <main className="mx-auto max-w-5xl px-3 py-4 sm:px-4 sm:py-6">
             <div className="flex gap-8">
               {/* Sidebar filters (desktop) */}
               <aside className="hidden w-64 shrink-0 lg:block">
@@ -202,9 +202,9 @@ export default function App() {
 
               <section className="min-w-0 flex-1">
                 {/* Toolbar */}
-                <div className="mb-4 flex items-center justify-between gap-3">
-                  <p className="text-muted-foreground">
-                    {t(lang, results.length === 1 ? "resultsCountOne" : "resultsCount", {
+                <div className="mb-4 space-y-3 sm:space-y-0 sm:flex sm:items-center sm:justify-between sm:gap-3">
+                  <p className="text-sm text-muted-foreground">
+                    {t(lang, results.length === 1 ? "results.countOne" : "results.count", {
                       count: results.length,
                     })}
                   </p>
@@ -213,7 +213,7 @@ export default function App() {
                       value={filters.sort}
                       onValueChange={(v) => setFilters({ ...filters, sort: v as Filters["sort"] })}
                     >
-                      <SelectTrigger className="w-[150px]">
+                      <SelectTrigger className="w-full sm:w-[150px]">
                         <SelectValue />
                       </SelectTrigger>
                       <SelectContent>
@@ -246,7 +246,7 @@ export default function App() {
                     }}
                   />
                 ) : (
-                  <div className="space-y-3">
+                  <div className="space-y-2 sm:space-y-3">
                     {results.slice(0, visible).map((r) => (
                       <ProgramCard key={r.id} lang={lang} prog={r} onOpen={openProgram} />
                     ))}
@@ -273,14 +273,14 @@ export default function App() {
       />
 
       {mobileOpen && (
-        <div className="fixed inset-0 z-50 flex items-start justify-center lg:hidden">
+        <div className="fixed inset-0 z-50 flex items-end justify-center sm:items-center lg:hidden">
           <div className="absolute inset-0 bg-black/50" onClick={() => setMobileOpen(false)} />
-          <div className="relative m-6 w-full max-w-md rounded-lg bg-background p-4 shadow-lg">
+          <div className="relative w-full max-w-md rounded-t-2xl bg-background p-4 shadow-lg sm:m-6 sm:rounded-2xl">
             <div className="flex items-center justify-between">
               <h3 className="text-lg font-semibold">{t(lang, "filters.title")}</h3>
-              <Button variant="ghost" onClick={() => setMobileOpen(false)}>×</Button>
+              <Button variant="ghost" size="icon" onClick={() => setMobileOpen(false)} aria-label={t(lang, "common.close")}>×</Button>
             </div>
-            <div className="mt-3">
+            <div className="mt-4 max-h-[70vh] overflow-y-auto">
               <FilterPanel lang={lang} filters={filters} onChange={(f) => { handleFilterChange(f); setMobileOpen(false); }} />
             </div>
           </div>

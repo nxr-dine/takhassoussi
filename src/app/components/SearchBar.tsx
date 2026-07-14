@@ -60,11 +60,11 @@ export function SearchBar({ lang, value, onChange, onSubmit, autoFocus, size = "
   return (
     <div ref={ref} className="relative w-full">
       <div
-        className={`flex items-center gap-3 rounded-2xl border border-border bg-card shadow-sm transition-shadow focus-within:border-primary focus-within:shadow-md ${
-          hero ? "px-5 py-4" : "px-4 py-2.5"
+        className={`flex items-center gap-2.5 rounded-2xl border border-border bg-card shadow-sm transition-shadow focus-within:border-primary focus-within:shadow-md sm:gap-3 ${
+          hero ? "px-4 py-3 sm:px-5 sm:py-4" : "px-3 py-2 sm:px-4 sm:py-2.5"
         }`}
       >
-        <Search className={`shrink-0 text-muted-foreground ${hero ? "h-6 w-6" : "h-5 w-5"}`} />
+        <Search className={`shrink-0 text-muted-foreground ${hero ? "h-5 w-5 sm:h-6 sm:w-6" : "h-4 w-4 sm:h-5 sm:w-5"}`} />
         <input
           autoFocus={autoFocus}
           value={value}
@@ -76,7 +76,7 @@ export function SearchBar({ lang, value, onChange, onSubmit, autoFocus, size = "
           onKeyDown={onKey}
           placeholder={t(lang, "search.placeholder")}
           className={`w-full bg-transparent outline-none placeholder:text-muted-foreground ${
-            hero ? "text-lg" : "text-base"
+            hero ? "text-base sm:text-lg" : "text-sm sm:text-base"
           }`}
         />
         {value && (
@@ -94,7 +94,7 @@ export function SearchBar({ lang, value, onChange, onSubmit, autoFocus, size = "
         {hero && (
           <button
             onClick={() => submit(value)}
-            className="shrink-0 rounded-xl bg-primary px-5 py-2 text-primary-foreground transition-opacity hover:opacity-90"
+            className="shrink-0 rounded-xl bg-primary px-4 py-1.5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 sm:px-5 sm:py-2 sm:text-base"
           >
             {t(lang, "search.submit")}
           </button>
